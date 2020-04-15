@@ -41,6 +41,7 @@ Collection of nice stuff for Godot. Also [my godot example projects](https://git
 [Additional visual shader nodes](https://github.com/Maujoe/Godot-Visual-Shader-Node-Library)    
 [DOS like shader](https://gitlab.com/chainedlupine/godot-3d-dos-shader)    
 [Shader animation effects](https://github.com/nezvers/Godot_shader_effects)    
+[Rim light](https://github.com/albertoluviano/shader-rim-light)    
 
 ## Audio    
 [Audio mixer](https://github.com/kyzfrintin/Godot-Mixing-Desk)    
