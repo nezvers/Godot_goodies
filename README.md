@@ -42,6 +42,7 @@ Collection of nice stuff for Godot. Also [my godot example projects](https://git
 [DOS like shader](https://gitlab.com/chainedlupine/godot-3d-dos-shader)    
 [Shader animation effects](https://github.com/nezvers/Godot_shader_effects)    
 [Rim light](https://github.com/albertoluviano/shader-rim-light)    
+[Temperature-heat&cold](https://github.com/AlbertoLuviano/SHADER-Temperature-Distortion)    
 
 ## Audio    
 [Audio mixer](https://github.com/kyzfrintin/Godot-Mixing-Desk)    
