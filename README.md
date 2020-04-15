@@ -1,5 +1,5 @@
 # Godot_goodies
-Collection of nice stuff for Godot
+Collection of nice stuff for Godot. Also [my godot example projects](https://github.com/nezvers/Godot_Public_Examples)    
 
 ## Editor    
 [Project manager](https://flyingpimonster.gitlab.io/hourglass-website/)    
@@ -39,7 +39,8 @@ Collection of nice stuff for Godot
 [Realistic water shader](https://github.com/godot-extended-libraries/godot-realistic-water)    
 [Material capture](https://github.com/godot-extended-libraries/godot-mat-cap)    
 [Additional visual shader nodes](https://github.com/Maujoe/Godot-Visual-Shader-Node-Library)    
-[DOS like shader](https://gitlab.com/chainedlupine/godot-3d-dos-shader)
+[DOS like shader](https://gitlab.com/chainedlupine/godot-3d-dos-shader)    
+[Shader animation effects](https://github.com/nezvers/Godot_shader_effects)    
 
 ## Audio    
 [Audio mixer](https://github.com/kyzfrintin/Godot-Mixing-Desk)    
@@ -52,6 +53,7 @@ Collection of nice stuff for Godot
 
 
 ## Quality of life    
+[Game template](https://github.com/nezvers/Godot-GameTemplate)    
 [Animation modifiers](https://github.com/samdze/godot-modifiers-plugin)    
 [SMRT dialogue sistem](https://github.com/brunosxs/SMRT-Godot), [Dialogue and quest system](https://github.com/Miziziziz/GodotDialogAndQuestSystem),[Dialogue graph](https://github.com/ejnij/Godot-DialogGraphPlugin), [Whiskers dialogue system](https://github.com/LittleMouseGames/whiskers)    
 [Visual novel editor](https://github.com/yumedev40/Yume-Visual-Novel-Editor)    
@@ -65,7 +67,6 @@ Collection of nice stuff for Godot
 ## Mobile support
 [Gesture camera](https://github.com/Federico-Ciuffardi/GestureControlledCamera2D)    
 [Touch manager](https://github.com/Federico-Ciuffardi/Godot-Touch-Input-Manager)    
-
 
 ## Publishing features    
 [Google Play Game Services](https://github.com/Kopfenheim/godot-gpgs)    
