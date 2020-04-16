@@ -34,7 +34,9 @@ Collection of nice stuff for Godot. Also [my godot example projects](https://git
 [Liquid simulation](https://github.com/tterrasson/liquid-simulator-godot)    
 [Dynamic splitscreen](https://github.com/godotengine/godot-demo-projects/tree/master/viewport/dynamic_split_screen)    
 [Terrain type pathfinding](https://github.com/drxwat/goblins-game-gd)    
-[Exploding objects](https://github.com/hiulit/Godot-3-2D-Destructible-Objects)
+[Exploding objects](https://github.com/hiulit/Godot-3-2D-Destructible-Objects)    
+[Godot Open 2D Platformer](https://github.com/GDQuest/godot-platformer-2d)    
+[Godot OpenRPG](https://github.com/GDQuest/godot-open-rpg)    
 
 ## GUI
 [Foldable GUI](https://bitbucket.org/metalmastery/reddit_giveaway/src/master/)
@@ -73,6 +75,7 @@ Collection of nice stuff for Godot. Also [my godot example projects](https://git
 [Collision dettection](https://github.com/TheSHEEEP/godotccd)    
 [SQLite](https://github.com/khairul169/gdsqlite-native)    
 [CSG to OBJ export](https://github.com/mohammedzero43/CSGExport-Godot)    
+[GDScript Docs Maker](https://github.com/GDQuest/gdscript-docs-maker)    
 
 ## Mobile support
 [Gesture camera](https://github.com/Federico-Ciuffardi/GestureControlledCamera2D)    
@@ -81,10 +84,12 @@ Collection of nice stuff for Godot. Also [my godot example projects](https://git
 ## Publishing features    
 [Google Play Game Services](https://github.com/Kopfenheim/godot-gpgs)    
 [RetroPie export](https://github.com/hiulit/RetroPie-Godot-Game-Engine-Emulator)    
+[GodotSteam](https://github.com/Gramps/GodotSteam)    
 
 ## Importing    
 [Quake map support](https://github.com/ShiftyAxel/Qodot)    
-[From blender to Godot](https://github.com/vini-guerrero/Godot_Game_Tools)
+[From blender to Godot](https://github.com/vini-guerrero/Godot_Game_Tools)    
+[godot-kra-psd-importer](https://github.com/2shady4u/godot-kra-psd-importer)    
 
 ## App projects    
 [Pixelorama](https://github.com/Orama-Interactive/Pixelorama)    
