@@ -22,6 +22,10 @@ Collection of nice stuff for Godot. Also [my godot example projects](https://git
 [Projected decals](https://github.com/Miziziziz/GodotProjectedDecals)    
 [Heightmap terrain](https://github.com/Zylann/godot_heightmap_plugin), [Voxel terrain](https://github.com/Zylann/godot_voxel)    
 [Mirror](https://github.com/JFonS/godot-mirror-example), [Reflection](https://github.com/SIsilicon/Godot-Planar-Reflection-Plugin/tree/v1.0.0)    
+[Character look at controller](https://github.com/smix8/Godot3DCharacterLookAtController)    
+[Target Tracker and Direction Indicator](https://github.com/smix8/Godot3DTargetTracker)   
+[Character Editor with Blendshapes and Wardrobe](https://github.com/smix8/Godot3DCharacterEditorWardrobe)    
+
 
 ## 2D    
 [Explosion particles](https://github.com/hiulit/Godot-3-2D-Fake-Explosion-Particles), [Water particles](https://github.com/securas/water_gpu_particles)    
@@ -34,6 +38,8 @@ Collection of nice stuff for Godot. Also [my godot example projects](https://git
 
 ## GUI
 [Foldable GUI](https://bitbucket.org/metalmastery/reddit_giveaway/src/master/)
+[InGame Web News and User Feedback Form](https://github.com/smix8/GodotUIWebNewsAndFeedbackForm)    
+[3D Drag&Drop NPC Trading with Interactions and Dialog](https://github.com/smix8/Godot3DNPCTradingDialogIntermissions)    
 
 ## Shaders    
 [Procedural checkerboard](https://github.com/CptPotato/GodotThings/tree/master/ProceduralCheckerboard)    
