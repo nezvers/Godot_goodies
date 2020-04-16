@@ -4,6 +4,7 @@ Collection of nice stuff for Godot. Also [my godot example projects](https://git
 ## Editor    
 [Project manager](https://flyingpimonster.gitlab.io/hourglass-website/)    
 [Github integration](https://github.com/fenix-hub/godot-engine.github-integration), [Git plugin](https://github.com/godotengine/godot-git-plugin)    
+[Automatic exports](https://github.com/firebelley/godot-export)    
 [Unit testing](https://github.com/CodeDarigan/WAT), [Unit testing](https://github.com/bitwes/Gut)    
 [Editor inspection](https://github.com/shfty/inspector-gadget)    
 [Editor GUI inspection](https://github.com/Zylann/godot_editor_debugger_plugin)    
