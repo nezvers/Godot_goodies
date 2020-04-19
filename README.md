@@ -25,6 +25,7 @@ Collection of nice stuff for Godot. Also [my godot example projects](https://git
 [Character look at controller](https://github.com/smix8/Godot3DCharacterLookAtController)    
 [Target Tracker and Direction Indicator](https://github.com/smix8/Godot3DTargetTracker)   
 [Character Editor with Blendshapes and Wardrobe](https://github.com/smix8/Godot3DCharacterEditorWardrobe)    
+[VPainter](https://github.com/tomankirilov/VPainter)    
 
 
 ## 2D    
