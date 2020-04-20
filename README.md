@@ -97,6 +97,7 @@ Collection of nice stuff for Godot. Also [my godot example projects](https://git
 [Google Play Game Services](https://github.com/Kopfenheim/godot-gpgs)    
 [RetroPie export](https://github.com/hiulit/RetroPie-Godot-Game-Engine-Emulator)    
 [GodotSteam](https://github.com/Gramps/GodotSteam)    
+[Docker image to export Godot Engine games](https://hub.docker.com/r/barichello/godot-ci/)    
 
 ## Importing    
 [Quake map support](https://github.com/ShiftyAxel/Qodot)    
