@@ -94,9 +94,10 @@ Collection of nice stuff for Godot. Also [my godot example projects](https://git
 [Touch manager](https://github.com/Federico-Ciuffardi/Godot-Touch-Input-Manager)    
 
 ## Publishing features    
+[Good Old Games Achievement Plugin](https://github.com/pixelriot/GodotGoG)    
+[GodotSteam](https://github.com/Gramps/GodotSteam)    
 [Google Play Game Services](https://github.com/Kopfenheim/godot-gpgs)    
 [RetroPie export](https://github.com/hiulit/RetroPie-Godot-Game-Engine-Emulator)    
-[GodotSteam](https://github.com/Gramps/GodotSteam)    
 [Docker image to export Godot Engine games](https://hub.docker.com/r/barichello/godot-ci/)    
 
 ## Importing    
