@@ -104,6 +104,7 @@ Collection of nice stuff for Godot. Also [my godot example projects](https://git
 [Quake map support](https://github.com/ShiftyAxel/Qodot)    
 [From blender to Godot](https://github.com/vini-guerrero/Godot_Game_Tools)    
 [godot-kra-psd-importer](https://github.com/2shady4u/godot-kra-psd-importer)    
+[Aseprite importer](https://github.com/hectorid/aseprite_importer)    
 
 ## App projects    
 [Pixelorama](https://github.com/Orama-Interactive/Pixelorama)    
