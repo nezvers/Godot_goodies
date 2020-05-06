@@ -2,6 +2,7 @@
 Collection of nice stuff for Godot. Also [my godot example projects](https://github.com/nezvers/Godot_Public_Examples)    
 
 ## Editor    
+[Isometric Tile Editor](https://github.com/utopia-rise/godot-2.5D-isometric-map-editor) - need contribution    
 [Project manager](https://flyingpimonster.gitlab.io/hourglass-website/)    
 [Github integration](https://github.com/fenix-hub/godot-engine.github-integration), [Git plugin](https://github.com/godotengine/godot-git-plugin)    
 [Automatic exports](https://github.com/firebelley/godot-export)    
