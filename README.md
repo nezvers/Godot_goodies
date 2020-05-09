@@ -73,6 +73,7 @@ Collection of nice stuff for Godot. Also [my godot example projects](https://git
 ## Multiplayer    
 [FPS multiplayer](https://github.com/ic3bug/Godot-3.2-Multiplayer-FPS)    
 [TPS multiplayer](https://github.com/ic3bug/TPS-MP)    
+[Nakama Godot Demo](https://github.com/heroiclabs/nakama-godot-demo/), [Nakama Godot client](https://github.com/heroiclabs/nakama-godot)    
 [Rollback sdk](https://github.com/FlutterTal/godot_ggpo)    
 [Easy LAN](https://github.com/henriquelalves/GodotEasyLAN)    
 
