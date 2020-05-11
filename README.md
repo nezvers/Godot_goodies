@@ -48,7 +48,7 @@ Collection of nice stuff for Godot. Also [my godot example projects](https://git
 [3D Drag&Drop NPC Trading with Interactions and Dialog](https://github.com/smix8/Godot3DNPCTradingDialogIntermissions)    
 
 ## Shaders    
-[Book of shaders in Godot](https://github.com/jayaarrgh/BookOfShaders-Godot)    
+[Book of shaders in Godot](https://github.com/jayaarrgh/BookOfShaders-Godot) - [itch.io live coding version](https://jayaarrgh.itch.io/book-of-shaders-godot)    
 [Procedural checkerboard](https://github.com/CptPotato/GodotThings/tree/master/ProceduralCheckerboard)    
 [Realistic water shader](https://github.com/godot-extended-libraries/godot-realistic-water), [Basic water](https://github.com/Maujoe/godot-basic-water-material),[2D ripple effect](https://github.com/securas/Water_Ripple_Tutorial)    
 [Material capture](https://github.com/godot-extended-libraries/godot-mat-cap)    
