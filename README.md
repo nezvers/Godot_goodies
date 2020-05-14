@@ -93,6 +93,7 @@ Collection of nice stuff for Godot. Also [my godot example projects](https://git
 [GDScript Docs Maker](https://github.com/GDQuest/gdscript-docs-maker)    
 [Tools and utility](https://github.com/nezvers/Godot_tools_and_utility)    
 [Godot text effects](https://github.com/teebarjunk/godot-text_effects)    
+[Joypad support](https://github.com/eh-jogos/godot-joypad-support)    
 
 ## Mobile support
 [Gesture camera](https://github.com/Federico-Ciuffardi/GestureControlledCamera2D)    
