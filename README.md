@@ -92,6 +92,7 @@ Collection of nice stuff for Godot. Also [my godot example projects](https://git
 [CSG to OBJ export](https://github.com/mohammedzero43/CSGExport-Godot)    
 [GDScript Docs Maker](https://github.com/GDQuest/gdscript-docs-maker)    
 [Tools and utility](https://github.com/nezvers/Godot_tools_and_utility)    
+[Godot text effects](https://github.com/teebarjunk/godot-text_effects)    
 
 ## Mobile support
 [Gesture camera](https://github.com/Federico-Ciuffardi/GestureControlledCamera2D)    
