@@ -2,7 +2,6 @@
 Collection of nice stuff for Godot. Also [my godot example projects](https://github.com/nezvers/Godot_Public_Examples)    
 
 ## Editor    
-[Isometric Tile Editor](https://github.com/utopia-rise/godot-2.5D-isometric-map-editor) - need contribution    
 [Project manager](https://flyingpimonster.gitlab.io/hourglass-website/)    
 [Github integration](https://github.com/fenix-hub/godot-engine.github-integration), [Git plugin](https://github.com/godotengine/godot-git-plugin)    
 [Automatic exports](https://github.com/firebelley/godot-export)    
@@ -10,6 +9,8 @@ Collection of nice stuff for Godot. Also [my godot example projects](https://git
 [Editor inspection](https://github.com/shfty/inspector-gadget)    
 [Editor GUI inspection](https://github.com/Zylann/godot_editor_debugger_plugin)    
 [Editor theme explorer](https://github.com/pycbouh/godot-editor-theme-explorer)    
+[Isometric Tile Editor](https://github.com/utopia-rise/godot-2.5D-isometric-map-editor) - need contribution    
+[Color palette plugin](https://github.com/EricEzaM/godot-color-palette)    
 
 ## 3D    
 [Godot Volumetrics Plugin](https://github.com/SIsilicon/Godot-Volumetrics-Plugin/tree/v1.0)    
