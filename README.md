@@ -115,6 +115,9 @@ Collection of nice stuff for Godot. Also [my godot example projects](https://git
 [godot-kra-psd-importer](https://github.com/2shady4u/godot-kra-psd-importer)    
 [Aseprite importer](https://github.com/hectorid/aseprite_importer)    
 
+## Integration
+[Twitch Chat Interaction Layer](https://github.com/drtwisted/godot-twicil)   
+
 ## App projects    
 [Pixelorama](https://github.com/Orama-Interactive/Pixelorama)    
 [Material maker](https://github.com/RodZill4/material-maker)    
