@@ -93,9 +93,12 @@ Collection of nice stuff for Godot. Also [my godot example projects](https://git
 [SQLite](https://github.com/khairul169/gdsqlite-native)    
 [CSG to OBJ export](https://github.com/mohammedzero43/CSGExport-Godot)    
 [GDScript Docs Maker](https://github.com/GDQuest/gdscript-docs-maker)    
-[Tools and utility](https://github.com/nezvers/Godot_tools_and_utility)    
 [Godot text effects](https://github.com/teebarjunk/godot-text_effects)    
 [Joypad support](https://github.com/eh-jogos/godot-joypad-support)    
+
+## Tools and utility collections    
+[Pigdev tools](https://github.com/nezvers/godot_tools)    
+[NeZvers Tools and utility](https://github.com/nezvers/Godot_tools_and_utility)    
 
 ## Mobile support
 [Gesture camera](https://github.com/Federico-Ciuffardi/GestureControlledCamera2D)    
