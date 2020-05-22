@@ -124,3 +124,6 @@ Collection of nice stuff for Godot. Also [my godot example projects](https://git
 ## App projects    
 [Pixelorama](https://github.com/Orama-Interactive/Pixelorama)    
 [Material maker](https://github.com/RodZill4/material-maker)    
+
+## Other Godot related lists
+[Godot powerfull](https://github.com/nezvers/godot-powerful)    
