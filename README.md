@@ -126,4 +126,5 @@ Collection of nice stuff for Godot. Also [my godot example projects](https://git
 [Material maker](https://github.com/RodZill4/material-maker)    
 
 ## Other Godot related lists
-[Godot powerfull](https://github.com/nezvers/godot-powerful)    
+[Godot powerful](https://github.com/nezvers/godot-powerful)    
+[Godot awesome](https://github.com/Calinou/awesome-godot)    
