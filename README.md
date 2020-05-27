@@ -12,7 +12,6 @@ Collection of nice stuff for Godot. Also [my godot example projects](https://git
 [Isometric Tile Editor](https://github.com/utopia-rise/godot-2.5D-isometric-map-editor) - need contribution    
 [Color palette plugin](https://github.com/EricEzaM/godot-color-palette)    
 [2d Polygon builder](https://github.com/Nefrace/PolygonBuilder)    
-[C++ Cout like wostream which target's Godot's console](https://gist.github.com/jdbener/20f899980df7c2fa100e137286541b67)   
 
 ## 3D    
 [Godot Volumetrics Plugin](https://github.com/SIsilicon/Godot-Volumetrics-Plugin/tree/v1.0)    
@@ -96,6 +95,7 @@ Collection of nice stuff for Godot. Also [my godot example projects](https://git
 [GDScript Docs Maker](https://github.com/GDQuest/gdscript-docs-maker)    
 [Godot text effects](https://github.com/teebarjunk/godot-text_effects)    
 [Joypad support](https://github.com/eh-jogos/godot-joypad-support)    
+[C++ Cout like wostream which target's Godot's console](https://gist.github.com/jdbener/20f899980df7c2fa100e137286541b67)   
 
 ## Tools and utility collections    
 [Pigdev tools](https://github.com/nezvers/godot_tools)    
