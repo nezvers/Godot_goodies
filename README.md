@@ -96,6 +96,7 @@ Collection of nice stuff for Godot. Also [my godot example projects](https://git
 [Godot text effects](https://github.com/teebarjunk/godot-text_effects)    
 [Joypad support](https://github.com/eh-jogos/godot-joypad-support)    
 [C++ Cout like wostream which target's Godot's console](https://gist.github.com/jdbener/20f899980df7c2fa100e137286541b67)   
+[MeshBatcher - batching MeshInstance](https://github.com/greenmoggle/MeshBatcher)    
 
 ## Tools and utility collections    
 [Pigdev tools](https://github.com/nezvers/godot_tools)    
