@@ -67,6 +67,7 @@ Collection of nice stuff for Godot. Also [my godot example projects](https://git
 [Godot-practice-shaders](https://github.com/DevinPentecost/godot-practice-shaders)    
 [Shader samples](https://github.com/Guaranapps/godot3-shaders-samples)    
 [Fractals](https://github.com/Chaosus/GDFractals)    
+[Particle attractors](https://bitbucket.org/metalmastery/reddit_giveaway/src/master/particles/noise_texture_direction/)    
 --[NOT GODOT SHADERS - 3D Shaders for beginers](https://github.com/lettier/3d-game-shaders-for-beginners)
 
 ## Audio    
