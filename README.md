@@ -116,7 +116,7 @@ Collection of nice stuff for Godot. Also [my godot example projects](https://git
 
 ## Importing    
 [DAZ studio to Blender to Godot workflow](https://github.com/smix8/Godot_DAZ_Studio_Guide)    
-[Quake map support](https://github.com/ShiftyAxel/Qodot)    
+[Quadot - Quake map support](https://github.com/ShiftyAxel/Qodot)    
 [From blender to Godot](https://github.com/vini-guerrero/Godot_Game_Tools)    
 [godot-kra-psd-importer](https://github.com/2shady4u/godot-kra-psd-importer)    
 [Aseprite importer](https://github.com/hectorid/aseprite_importer)    
