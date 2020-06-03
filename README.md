@@ -44,6 +44,7 @@ Collection of nice stuff for Godot. Also [my godot example projects](https://git
 [Exploding objects](https://github.com/hiulit/Godot-3-2D-Destructible-Objects)    
 [Godot Open 2D Platformer](https://github.com/GDQuest/godot-platformer-2d)    
 [Godot OpenRPG](https://github.com/GDQuest/godot-open-rpg)    
+[2D Lightning with Line2D](https://github.com/Geminimax/Godot-2d-Lightning)    
 
 ## GUI
 [Foldable GUI](https://bitbucket.org/metalmastery/reddit_giveaway/src/master/)
