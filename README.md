@@ -46,6 +46,7 @@ Collection of nice stuff for Godot. Also [my godot example projects](https://git
 [Godot OpenRPG](https://github.com/GDQuest/godot-open-rpg)    
 [2D Lightning with Line2D](https://github.com/Geminimax/Godot-2d-Lightning)    
 [Color splatter effect aka Meat boy](https://github.com/Janglee123/godot-color-splatter-effect)    
+[Color swap shader](https://github.com/AlbertoLuviano/SHADER-Palette-Swap)    
 
 ## GUI
 [Foldable GUI](https://bitbucket.org/metalmastery/reddit_giveaway/src/master/)
