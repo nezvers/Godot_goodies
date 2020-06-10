@@ -108,6 +108,7 @@ Collection of nice stuff for Godot. Also [my godot example projects](https://git
 [NeZvers Tools and utility](https://github.com/nezvers/Godot_tools_and_utility)    
 [eco state machine](https://github.com/nezvers/eco-state-machine)    
 [AR & VR tools](https://github.com/GodotVR/godot-xr-tools)    
+[godot-utils-and-other - volumetric lights shader & more](https://github.com/danilw/godot-utils-and-other)    
 
 ## Mobile support
 [Gesture camera](https://github.com/Federico-Ciuffardi/GestureControlledCamera2D)    
