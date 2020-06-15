@@ -58,6 +58,7 @@ Collection of nice stuff for Godot. Also [my godot example projects](https://git
 [Book of shaders in Godot](https://github.com/jayaarrgh/BookOfShaders-Godot) - [itch.io live coding version](https://jayaarrgh.itch.io/book-of-shaders-godot)    
 [Procedural checkerboard](https://github.com/CptPotato/GodotThings/tree/master/ProceduralCheckerboard)    
 [Realistic water shader](https://github.com/godot-extended-libraries/godot-realistic-water), [Basic water](https://github.com/Maujoe/godot-basic-water-material),[2D ripple effect](https://github.com/securas/Water_Ripple_Tutorial)    
+[2D reflective watter](https://github.com/gamedevserj/Godot-Shaders)    
 [Material capture](https://github.com/godot-extended-libraries/godot-mat-cap)    
 [Additional visual shader nodes](https://github.com/Maujoe/Godot-Visual-Shader-Node-Library)    
 [DOS like shader](https://gitlab.com/chainedlupine/godot-3d-dos-shader)    
