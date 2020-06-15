@@ -12,6 +12,7 @@ Collection of nice stuff for Godot. Also [my godot example projects](https://git
 [Isometric Tile Editor](https://github.com/utopia-rise/godot-2.5D-isometric-map-editor) - need contribution    
 [Color palette plugin](https://github.com/EricEzaM/godot-color-palette)    
 [2d Polygon builder](https://github.com/Nefrace/PolygonBuilder)    
+[Vertex snapping tool](https://github.com/remorse107/vertexsnap)    
 
 ## 3D    
 [Godot Volumetrics Plugin](https://github.com/SIsilicon/Godot-Volumetrics-Plugin/tree/v1.0)    
