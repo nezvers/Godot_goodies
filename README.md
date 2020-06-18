@@ -13,6 +13,7 @@ Collection of nice stuff for Godot. Also [my godot example projects](https://git
 [Color palette plugin](https://github.com/EricEzaM/godot-color-palette)    
 [2d Polygon builder](https://github.com/Nefrace/PolygonBuilder)    
 [Vertex snapping tool](https://github.com/remorse107/vertexsnap)    
+[C++ helper plugin](https://gitlab.com/turtlewit/godot_cpp_helper_plugin)    
 
 ## 3D    
 [Godot Volumetrics Plugin](https://github.com/SIsilicon/Godot-Volumetrics-Plugin/tree/v1.0)    
