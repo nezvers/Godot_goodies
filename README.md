@@ -95,6 +95,7 @@ Collection of nice stuff for Godot. Also [my godot example projects](https://git
 [Game template](https://github.com/nezvers/Godot-GameTemplate)    
 [Cutscene system](https://github.com/nezvers/Godot_cutscene_system)    
 [Animation modifiers](https://github.com/samdze/godot-modifiers-plugin)    
+[In-game performance monitor](https://github.com/aleksandrbazhin/GdPerfMonitor)    
 [CurveTween](https://github.com/bramreth/godot_tutorial_content/tree/master/curve_tween/CurveTween)    
 [SMRT dialogue sistem](https://github.com/brunosxs/SMRT-Godot), [Dialogue and quest system](https://github.com/Miziziziz/GodotDialogAndQuestSystem),[Dialogue graph](https://github.com/ejnij/Godot-DialogGraphPlugin), [Whiskers dialogue system](https://github.com/LittleMouseGames/whiskers)    
 [Visual novel editor](https://github.com/yumedev40/Yume-Visual-Novel-Editor)    
