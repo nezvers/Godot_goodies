@@ -77,7 +77,7 @@ Collection of nice stuff for Godot. Also [my godot example projects](https://git
 [Fractals](https://github.com/Chaosus/GDFractals)    
 [Particle attractors](https://bitbucket.org/metalmastery/reddit_giveaway/src/master/particles/noise_texture_direction/)    
 [Liquid container shader VR demo](https://github.com/CaptainProton42/LiquidContainerDemo)    
-[2D shader effects -reflection water/ impact/ disolve](https://github.com/gamedevserj/Godot-Shaders)    
+[2D shader effects -reflection water/ impact/ disolve/ stealth](https://github.com/gamedevserj/Godot-Shaders)    
 --[NOT GODOT SHADERS - 3D Shaders for beginers](https://github.com/lettier/3d-game-shaders-for-beginners)
 
 ## Audio    
