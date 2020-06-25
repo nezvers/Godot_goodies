@@ -19,6 +19,7 @@ Collection of nice stuff for Godot. Also [my godot example projects](https://git
 [Godot Volumetrics Plugin](https://github.com/SIsilicon/Godot-Volumetrics-Plugin/tree/v1.0)    
 [Third person controller](https://github.com/GDQuest/godot-3d-mannequin)    
 [Octahedral Impostors](https://github.com/wojtekpil/Godot-Octahedral-Impostors)    
+[Dynamic water](https://github.com/CaptainProton42/DynamicWaterDemo)    
 [random prop filling](https://github.com/HungryProton/scatter)    
 [AllSky skybox](https://github.com/rpgwhitelock/AllSkyFree_Godot), [simple skybox](https://github.com/Chaosus/GDSimpleSkybox)    
 [Red dot gun shader](https://gitlab.com/MrMinimal/godot-reflex-sight)    
