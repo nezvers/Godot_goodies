@@ -40,6 +40,7 @@ Collection of nice stuff for Godot. Also [my godot example projects](https://git
 [Explosion particles](https://github.com/hiulit/Godot-3-2D-Fake-Explosion-Particles), [Water particles](https://github.com/securas/water_gpu_particles)    
 [qurobullet - bullethell projectile system](https://github.com/quinnvoker/qurobullet)    
 [RMSmartShape2D - free-form collission and tiles](https://github.com/remorse107/rmsmartshape2d)    
+[2D action platformer with flexible state machine](https://github.com/nezvers/Godot_2D_action_platformer)    
 [2D reflection](https://github.com/McSpider/Godot-2D-Reflections)    
 [Day & Night cycle](https://github.com/hiulit/Godot-3-2D-Day-Night-Cycle)    
 [Liquid simulation](https://github.com/tterrasson/liquid-simulator-godot)    
