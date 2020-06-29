@@ -66,6 +66,7 @@ Collection of nice stuff for Godot. Also [my godot example projects](https://git
 [Material capture](https://github.com/godot-extended-libraries/godot-mat-cap)    
 [Additional visual shader nodes](https://github.com/Maujoe/Godot-Visual-Shader-Node-Library)    
 [DOS like shader](https://gitlab.com/chainedlupine/godot-3d-dos-shader)    
+[Sprite stack - fake 3d pixel art](https://gist.github.com/securas/a15f520b6ff1d748e3f38c2cd6fd0c94)    
 [Shader animation effects](https://github.com/nezvers/Godot_shader_effects)    
 [Rim light](https://github.com/albertoluviano/shader-rim-light)    
 [Guilty Gear Style toon shader](https://github.com/nakedsnake888/GodotToonShader)    
@@ -80,6 +81,8 @@ Collection of nice stuff for Godot. Also [my godot example projects](https://git
 [Particle attractors](https://bitbucket.org/metalmastery/reddit_giveaway/src/master/particles/noise_texture_direction/)    
 [Liquid container shader VR demo](https://github.com/CaptainProton42/LiquidContainerDemo)    
 [2D shader effects -reflection water/ impact/ disolve/ stealth](https://github.com/gamedevserj/Godot-Shaders)    
+[glitch shade](https://gist.github.com/securas/eae6ca30e22c18472c21100ed427cde7)    
+
 --[NOT GODOT SHADERS - 3D Shaders for beginers](https://github.com/lettier/3d-game-shaders-for-beginners)
 
 ## Audio    
