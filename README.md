@@ -100,6 +100,7 @@ Collection of nice stuff for Godot. Also [my godot example projects](https://git
 [In-game performance monitor](https://github.com/aleksandrbazhin/GdPerfMonitor)    
 [CurveTween](https://github.com/bramreth/godot_tutorial_content/tree/master/curve_tween/CurveTween)    
 [SMRT dialogue sistem](https://github.com/brunosxs/SMRT-Godot), [Dialogue and quest system](https://github.com/Miziziziz/GodotDialogAndQuestSystem),[Dialogue graph](https://github.com/ejnij/Godot-DialogGraphPlugin), [Whiskers dialogue system](https://github.com/LittleMouseGames/whiskers)    
+[Path2D editor](https://github.com/newold3/PathEditor)    
 [Visual novel editor](https://github.com/yumedev40/Yume-Visual-Novel-Editor)    
 [Charts](https://github.com/binogure-studio/chart-gd)    
 [Sharp scaled progress bar](https://github.com/binogure-studio/gd-progress)    
