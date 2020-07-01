@@ -100,6 +100,7 @@ Collection of nice stuff for Godot. Also [my godot example projects](https://git
 [Automatic project build](https://gitlab.com/greenfox/godot-build-automation/-/blob/master/readme.md)    
 [Game template](https://github.com/nezvers/Godot-GameTemplate)    
 [Cutscene system](https://github.com/nezvers/Godot_cutscene_system)    
+[Plugin bundle - DebugHelpers/ general scripts/ Network/ UI](http://kidscancode.org/godot_recipes/g101/)    
 [Animation modifiers](https://github.com/samdze/godot-modifiers-plugin)    
 [In-game performance monitor](https://github.com/aleksandrbazhin/GdPerfMonitor)    
 [CurveTween](https://github.com/bramreth/godot_tutorial_content/tree/master/curve_tween/CurveTween)    
