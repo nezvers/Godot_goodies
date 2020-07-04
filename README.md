@@ -126,6 +126,7 @@ Collection of nice stuff for Godot. Also [my godot example projects](https://git
 [eco state machine](https://github.com/nezvers/eco-state-machine)    
 [AR & VR tools](https://github.com/GodotVR/godot-xr-tools)    
 [godot-utils-and-other - volumetric lights shader & more](https://github.com/danilw/godot-utils-and-other)    
+[lerp_angle](https://github.com/JohnnyRouddro/godot_projects/tree/master/3.2.2/Smooth%20Rotate%203D)    
 
 ## Mobile support
 [Gesture camera](https://github.com/Federico-Ciuffardi/GestureControlledCamera2D)    
