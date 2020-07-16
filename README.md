@@ -17,6 +17,7 @@ Collection of nice stuff for Godot. Also [my godot example projects](https://git
 
 ## 3D    
 [Godot Volumetrics Plugin](https://github.com/SIsilicon/Godot-Volumetrics-Plugin/tree/v1.0)    
+[GPU terrain editor](https://github.com/awkwardpolygons/cartographer)[download](https://github.com/awkwardpolygons/cartographer/releases)    
 [Third person controller](https://github.com/GDQuest/godot-3d-mannequin)    
 [Octahedral Impostors](https://github.com/wojtekpil/Godot-Octahedral-Impostors)    
 [Dynamic water](https://github.com/CaptainProton42/DynamicWaterDemo)    
