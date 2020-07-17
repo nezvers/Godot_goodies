@@ -103,6 +103,7 @@ Collection of nice stuff for Godot. Also [my godot example projects](https://git
 ## Quality of life    
 [Automatic project build](https://gitlab.com/greenfox/godot-build-automation/-/blob/master/readme.md)    
 [Game template](https://github.com/nezvers/Godot-GameTemplate)    
+[StateMachine system](https://github.com/nezvers/StateMachine_system_for_Godot)    
 [Cutscene system](https://github.com/nezvers/Godot_cutscene_system)    
 [Plugin bundle - DebugHelpers/ general scripts/ Network/ UI](http://kidscancode.org/godot_recipes/g101/)    
 [Animation modifiers](https://github.com/samdze/godot-modifiers-plugin)    
