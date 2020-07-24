@@ -17,6 +17,7 @@ Collection of nice stuff for Godot. Also [my godot example projects](https://git
 [C++ helper plugin](https://gitlab.com/turtlewit/godot_cpp_helper_plugin)    
 
 ## 3D    
+[Procedural tree generation](https://github.com/adszads/godot-procedural-tree-generation)    
 [Godot Volumetrics Plugin](https://github.com/SIsilicon/Godot-Volumetrics-Plugin/tree/v1.0)    
 [GPU terrain editor](https://github.com/awkwardpolygons/cartographer)[ download](https://github.com/awkwardpolygons/cartographer/releases)    
 [Third person controller](https://github.com/GDQuest/godot-3d-mannequin)    
