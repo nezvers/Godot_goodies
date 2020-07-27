@@ -37,6 +37,7 @@ Collection of nice stuff for Godot. Also [my godot example projects](https://git
 [Character Editor with Blendshapes and Wardrobe](https://github.com/smix8/Godot3DCharacterEditorWardrobe)    
 [VPainter](https://github.com/tomankirilov/VPainter)    
 [Godot slicer - port of Unity Ezy-slicer](https://github.com/cj-dimaggio/godot-slicer)    
+[Tile breaker - texture untiling](https://github.com/SIsilicon/Tile-Breaker-Plugin)    
 
 
 ## 2D    
