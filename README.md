@@ -109,6 +109,7 @@ Collection of nice stuff for Godot. Also [my godot example projects](https://git
 [Godot Ci template](https://github.com/jason-h-35/godot-ci-template)     
 [Game template - options menu/ keybinding/ async scene loading/ transitions](https://github.com/nezvers/Godot-GameTemplate)    
 [Godot Toolbox Project - menu/ keybinding/ themes/ settings / transitions/ debug](https://github.com/AnJ95/godot-toolbox-project)    
+[FuzzyDisplayTools](https://github.com/fossegutten/FuzzyDisplayTools)    
 [StateMachine system](https://github.com/nezvers/StateMachine_system_for_Godot)    
 [Cutscene system](https://github.com/nezvers/Godot_cutscene_system)    
 [Plugin bundle - DebugHelpers/ general scripts/ Network/ UI](http://kidscancode.org/godot_recipes/g101/)    
