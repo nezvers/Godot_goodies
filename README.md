@@ -140,6 +140,7 @@ Collection of nice stuff for Godot. Also [my godot example projects](https://git
 [godot-utils-and-other - volumetric lights shader & more](https://github.com/danilw/godot-utils-and-other)    
 [lerp_angle](https://github.com/JohnnyRouddro/godot_projects/tree/master/3.2.2/Smooth%20Rotate%203D)    
 [debug overlay](https://github.com/Feniks-Gaming/UtilityScripts/tree/master/Debug)    
+[Test_DebugDraw](https://github.com/RBerezkin/Test_DebugDraw/)    
 
 ## Mobile support
 [Gesture camera](https://github.com/Federico-Ciuffardi/GestureControlledCamera2D)    
