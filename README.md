@@ -15,6 +15,7 @@ Collection of nice stuff for Godot. Also [my godot example projects](https://git
 [2d Polygon builder](https://github.com/Nefrace/PolygonBuilder)    
 [Vertex snapping tool](https://github.com/remorse107/vertexsnap)    
 [C++ helper plugin](https://gitlab.com/turtlewit/godot_cpp_helper_plugin)    
+[Custom block autotiles](https://gist.github.com/securas/a123280ab1196eac4e13fa062407891c)    
 
 ## 3D    
 [Procedural tree generation](https://github.com/adszads/godot-procedural-tree-generation)    
