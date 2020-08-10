@@ -96,6 +96,7 @@ Collection of nice stuff for Godot. Also [my godot example projects](https://git
 ## Audio    
 [Audio mixer](https://github.com/kyzfrintin/Godot-Mixing-Desk)    
 [Random AudioStreamPlayer](https://gitlab.com/timkrief/godot-random-audio-stream-player)    
+[FLMusicLib - GDNative chiptune player](https://github.com/MightyPrinny/godot-FLMusicLib)     
 
 ## Multiplayer    
 [FPS multiplayer](https://github.com/ic3bug/Godot-3.2-Multiplayer-FPS)    
