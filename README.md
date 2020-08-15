@@ -91,6 +91,7 @@ Collection of nice stuff for Godot. Also [my godot example projects](https://git
 [Liquid container shader VR demo](https://github.com/CaptainProton42/LiquidContainerDemo)    
 [2D shader effects -reflection water/ impact/ disolve/ stealth](https://github.com/gamedevserj/Godot-Shaders)    
 [glitch shade](https://gist.github.com/securas/eae6ca30e22c18472c21100ed427cde7)    
+[3D Anime eyes](https://github.com/Francesco149/AnimuEyes)    
 
 --[NOT GODOT SHADERS - 3D Shaders for beginers](https://github.com/lettier/3d-game-shaders-for-beginners)
 
