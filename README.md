@@ -135,6 +135,7 @@ Collection of nice stuff for Godot. Also [my godot example projects](https://git
 [C++ Cout like wostream which target's Godot's console](https://gist.github.com/jdbener/20f899980df7c2fa100e137286541b67)   
 [MeshBatcher - batching MeshInstance](https://github.com/greenmoggle/MeshBatcher)    
 [Raylibs & RayGUI inspired theme](https://github.com/Airbus5717/raygui-godot-theme)    
+[Behavioral tree](https://github.com/fian46/addons-btree)    
 
 ## Tools and utility collections    
 [Pigdev tools](https://github.com/nezvers/godot_tools)    
