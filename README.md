@@ -175,3 +175,6 @@ Collection of nice stuff for Godot. Also [my godot example projects](https://git
 ## Other Godot related lists
 [Godot powerful](https://github.com/nonunknown/godot-powerful)    
 [Godot awesome](https://github.com/Calinou/awesome-godot)    
+
+## TextEditor themes
+[Godot syntax themes](https://github.com/godotengine/godot-syntax-themes)
