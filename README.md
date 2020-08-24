@@ -18,6 +18,8 @@ Collection of nice stuff for Godot. Also [my godot example projects](https://git
 [Custom block autotiles](https://gist.github.com/securas/a123280ab1196eac4e13fa062407891c)    
 [Gridmap-tools](https://gitlab.com/nick-valentine/gridmap-tools)    
 [Vegetation creation](https://github.com/wojtekpil/Godot-Biomes)   
+[Grass plugin](https://github.com/wojtekpil/godot_grass_plugin)    
+[Grass editor plugin](https://github.com/marcosbitetti/grass_plugin_4_godot)    
 
 ## 3D    
 [Procedural tree generation](https://github.com/adszads/godot-procedural-tree-generation)    
