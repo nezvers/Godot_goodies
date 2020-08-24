@@ -92,6 +92,7 @@ Collection of nice stuff for Godot. Also [my godot example projects](https://git
 [2D shader effects -reflection water/ impact/ disolve/ stealth](https://github.com/gamedevserj/Godot-Shaders)    
 [glitch shade](https://gist.github.com/securas/eae6ca30e22c18472c21100ed427cde7)    
 [3D Anime eyes](https://github.com/Francesco149/AnimuEyes)    
+[3D Grass shader tutorial](https://github.com/BastiaanOlij/godot-grass-tutorial)    
 
 --[NOT GODOT SHADERS - 3D Shaders for beginers](https://github.com/lettier/3d-game-shaders-for-beginners)
 
