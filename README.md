@@ -3,6 +3,7 @@ Collection of nice stuff for Godot. Also [my godot example projects](https://git
 
 ## Editor    
 [Project manager](https://flyingpimonster.gitlab.io/hourglass-website/)    
+[Object placer tool]{https://github.com/mnemoli/godotplacer}    
 [FileSystem view filter](https://github.com/zaevi/godot-filesystem-view)    
 [Github integration](https://github.com/fenix-hub/godot-engine.github-integration), [Git plugin](https://github.com/godotengine/godot-git-plugin)    
 [Automatic exports](https://github.com/firebelley/godot-export)    
