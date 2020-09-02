@@ -75,10 +75,17 @@ Collection of nice stuff for Godot. Also [my godot example projects](https://git
 [GDquest godot shaders](https://github.com/GDQuest/godot-shaders)    
 [Decals](https://github.com/Master-J/DecalCo)    
 [Procedural checkerboard](https://github.com/CptPotato/GodotThings/tree/master/ProceduralCheckerboard)    
-[Realistic water shader](https://github.com/godot-extended-libraries/godot-realistic-water), [Basic water](https://github.com/Maujoe/godot-basic-water-material),[2D ripple effect](https://github.com/securas/Water_Ripple_Tutorial)    
-[2D reflective watter](https://github.com/gamedevserj/Godot-Shaders)    
-[Material capture](https://github.com/godot-extended-libraries/godot-mat-cap)    
+[Godot-practice-shaders](https://github.com/DevinPentecost/godot-practice-shaders)    
+[CRT](https://github.com/hiulit/Godot-3-2D-CRT-Shader)    
 [Additional visual shader nodes](https://github.com/Maujoe/Godot-Visual-Shader-Node-Library)    
+[Shader playground](https://github.com/tamamu/godot-shader-playground)    
+[Shader samples](https://github.com/Guaranapps/godot3-shaders-samples)    
+
+--[NOT GODOT SHADERS - 3D Shaders for beginers](https://github.com/lettier/3d-game-shaders-for-beginners)
+
+## 3D shaders
+[Realistic water shader](https://github.com/godot-extended-libraries/godot-realistic-water), [Basic water](https://github.com/Maujoe/godot-basic-water-material),[2D ripple effect](https://github.com/securas/Water_Ripple_Tutorial)    
+[Material capture](https://github.com/godot-extended-libraries/godot-mat-cap)    
 [DOS like shader](https://gitlab.com/chainedlupine/godot-3d-dos-shader)    
 [Sprite stack - fake 3d pixel art](https://gist.github.com/securas/a15f520b6ff1d748e3f38c2cd6fd0c94)    
 [Shader animation effects](https://github.com/nezvers/Godot_shader_effects)    
@@ -86,20 +93,18 @@ Collection of nice stuff for Godot. Also [my godot example projects](https://git
 [Guilty Gear Style toon shader](https://github.com/nakedsnake888/GodotToonShader)    
 [Cel Shader v2.0.0](https://github.com/EXPWorlds/Godot-Cel-Shader)    
 [Temperature-heat&cold](https://github.com/AlbertoLuviano/SHADER-Temperature-Distortion)    
-[CRT](https://github.com/hiulit/Godot-3-2D-CRT-Shader)    
 [psx-shaders](https://github.com/marmitoTH/godot-psx-shaders)    
-[Shader playground](https://github.com/tamamu/godot-shader-playground)    
-[Godot-practice-shaders](https://github.com/DevinPentecost/godot-practice-shaders)    
-[Shader samples](https://github.com/Guaranapps/godot3-shaders-samples)    
-[Fractals](https://github.com/Chaosus/GDFractals)    
-[Particle attractors](https://bitbucket.org/metalmastery/reddit_giveaway/src/master/particles/noise_texture_direction/)    
 [Liquid container shader VR demo](https://github.com/CaptainProton42/LiquidContainerDemo)    
-[2D shader effects -reflection water/ impact/ disolve/ stealth](https://github.com/gamedevserj/Godot-Shaders)    
-[glitch shade](https://gist.github.com/securas/eae6ca30e22c18472c21100ed427cde7)    
 [3D Anime eyes](https://github.com/Francesco149/AnimuEyes)    
 [3D Grass particle shader tutorial](https://github.com/BastiaanOlij/godot-grass-tutorial)    
 
---[NOT GODOT SHADERS - 3D Shaders for beginers](https://github.com/lettier/3d-game-shaders-for-beginners)
+## 2D Shaders
+[2D grass shader](https://github.com/captainproton42/2dGrassShaderDemo)    
+[2D reflective watter](https://github.com/gamedevserj/Godot-Shaders)    
+[Particle attractors](https://bitbucket.org/metalmastery/reddit_giveaway/src/master/particles/noise_texture_direction/)    
+[Fractals](https://github.com/Chaosus/GDFractals)    
+[2D shader effects -reflection water/ impact/ disolve/ stealth](https://github.com/gamedevserj/Godot-Shaders)    
+[glitch shade](https://gist.github.com/securas/eae6ca30e22c18472c21100ed427cde7)    
 
 ## Audio    
 [Audio mixer](https://github.com/kyzfrintin/Godot-Mixing-Desk)    
