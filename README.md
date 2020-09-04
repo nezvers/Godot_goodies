@@ -24,6 +24,7 @@ Collection of nice stuff for Godot. Also [my godot example projects](https://git
 
 ## 3D    
 [Procedural tree generation](https://github.com/adszads/godot-procedural-tree-generation)    
+[Godot-biome - Procedural biomes generator](https://github.com/wojtekpil/Godot-Biomes)    
 [Godot Volumetrics Plugin](https://github.com/SIsilicon/Godot-Volumetrics-Plugin/tree/v1.0)    
 [GPU terrain editor](https://github.com/awkwardpolygons/cartographer)[ download](https://github.com/awkwardpolygons/cartographer/releases)    
 [3D navigation jump links](https://github.com/smix8/Godot_3D_Navigation_Jump_Links)    
