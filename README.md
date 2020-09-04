@@ -120,6 +120,7 @@ Collection of nice stuff for Godot. Also [my godot example projects](https://git
 
 
 ## Quality of life    
+[Godot utils and other *** "particle collision, volumetric lightning"](https://github.com/danilw/godot-utils-and-other)   
 [Automatic project build](https://gitlab.com/greenfox/godot-build-automation/-/blob/master/readme.md)    
 [Godot Ci template](https://github.com/jason-h-35/godot-ci-template)     
 [Game template - options menu/ keybinding/ async scene loading/ transitions](https://github.com/nezvers/Godot-GameTemplate)    
