@@ -1,5 +1,9 @@
 # Godot_goodies
-Collection of nice stuff for Godot. Also [my godot example projects](https://github.com/nezvers/Godot_Public_Examples)    
+Collection of nice stuff for Godot.    
+Also [my godot example projects](https://github.com/nezvers/Godot_Public_Examples)    
+
+## Engine    
+[Goost - functional components and other modules](https://github.com/goostengine/goost)    
 
 ## Editor    
 [Project manager](https://flyingpimonster.gitlab.io/hourglass-website/)    
