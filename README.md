@@ -26,6 +26,7 @@ Also [my godot example projects](https://github.com/nezvers/Godot_Public_Example
 [Grass plugin](https://github.com/wojtekpil/godot_grass_plugin)    
 [Grass editor plugin](https://github.com/marcosbitetti/grass_plugin_4_godot)    
 [UI Design tool](https://github.com/imjp94/UIDesignTool)    
+[NodeConnectorGodot - GUI batch signal connector](https://github.com/Rybadour/NodeConnectorGodot)    
 
 ## 3D    
 [Procedural tree generation](https://github.com/adszads/godot-procedural-tree-generation)    
