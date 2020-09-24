@@ -127,6 +127,7 @@ Also [my godot example projects](https://github.com/nezvers/Godot_Public_Example
 
 
 ## Quality of life    
+[Smoothing - Jitter fix](https://github.com/lawnjelly/smoothing-addon)
 [Godot utils and other *** "particle collision, volumetric lightning"](https://github.com/danilw/godot-utils-and-other)   
 [Automatic project build](https://gitlab.com/greenfox/godot-build-automation/-/blob/master/readme.md)    
 [Godot Ci template](https://github.com/jason-h-35/godot-ci-template)     
