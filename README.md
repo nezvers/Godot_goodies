@@ -56,6 +56,7 @@ Also [my godot example projects](https://github.com/nezvers/Godot_Public_Example
 
 ## 2D    
 [Explosion particles](https://github.com/hiulit/Godot-3-2D-Fake-Explosion-Particles), [Water particles](https://github.com/securas/water_gpu_particles)    
+[SoftBodt2D](https://github.com/Lynext/GodotSoftBody2D)    
 [qurobullet - bullethell projectile system](https://github.com/quinnvoker/qurobullet)    
 [RMSmartShape2D - free-form collission and tiles](https://github.com/remorse107/rmsmartshape2d)    
 [2D action platformer with flexible state machine](https://github.com/nezvers/Godot_2D_action_platformer)    
