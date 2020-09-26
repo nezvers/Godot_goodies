@@ -29,6 +29,7 @@ Also [my godot example projects](https://github.com/nezvers/Godot_Public_Example
 [NodeConnectorGodot - GUI batch signal connector](https://github.com/Rybadour/NodeConnectorGodot)    
 
 ## 3D    
+[Level of Detail (LOD)](https://github.com/Calinou/godot-lod)    
 [Procedural tree generation](https://github.com/adszads/godot-procedural-tree-generation)    
 [Godot-biome - Procedural biomes generator](https://github.com/wojtekpil/Godot-Biomes)    
 [Godot Volumetrics Plugin](https://github.com/SIsilicon/Godot-Volumetrics-Plugin/tree/v1.0)    
