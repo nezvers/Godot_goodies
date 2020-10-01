@@ -4,7 +4,7 @@ Also [my godot example projects](https://github.com/nezvers/Godot_Public_Example
 
 ## Engine    
 [Goost - functional components and other modules](https://github.com/goostengine/goost)    
-[Vulcan-kompute GDNative](https://github.com/EthicalML/vulkan-kompute/tree/master/examples/godot_logistic_regression/gdnative_shared)   
+[Vulcan-kompute GDNative](https://github.com/EthicalML/vulkan-kompute/tree/master/examples/godot_logistic_regression/gdnative_shared)
 [Vulcan-kompute module](https://github.com/EthicalML/vulkan-kompute/tree/master/examples/godot_logistic_regression/custom_module)    
 
 ## Editor    
