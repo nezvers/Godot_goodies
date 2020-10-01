@@ -108,7 +108,8 @@ Also [my godot example projects](https://github.com/nezvers/Godot_Public_Example
 [Liquid container shader VR demo](https://github.com/CaptainProton42/LiquidContainerDemo)    
 [3D Anime eyes](https://github.com/Francesco149/AnimuEyes)    
 [3D Grass particle shader tutorial](https://github.com/BastiaanOlij/godot-grass-tutorial)    
-[Shadertoy ported shaders](https://github.com/IINinja/Godot.3.2.2-Ported-Shaders)    
+[Shadertoy ported shaders](https://github.com/IINinja/Godot.3.2.2-Ported-Shaders)
+[Shadertoy ported shaders 3.x](https://github.com/IINinja/godot3_shaders)
 
 ## 2D Shaders
 [2D grass shader](https://github.com/captainproton42/2dGrassShaderDemo)    
