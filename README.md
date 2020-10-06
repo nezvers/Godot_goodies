@@ -165,6 +165,7 @@ Vulcan-kompute [GDNative ](https://github.com/EthicalML/vulkan-kompute/tree/mast
 [Behavioral tree](https://github.com/fian46/addons-btree)    
 [Abstract state machine](https://github.com/godot-extended-libraries/abstract-state-machine/)    
 [Screen debugger - print values on the screen](https://github.com/nonunknown/screen-debugger)    
+[Phoenix Channels Client for Godot and GDScript]()    https://github.com/alfredbaudisch/GodotPhoenixChannels
 
 ## Tools and utility collections    
 [Pigdev tools](https://github.com/nezvers/godot_tools)    
