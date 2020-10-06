@@ -201,6 +201,7 @@ Vulcan-kompute [GDNative ](https://github.com/EthicalML/vulkan-kompute/tree/mast
 
 ## App projects    
 [Pixelorama](https://github.com/Orama-Interactive/Pixelorama)    
+[Godello - Trello clone](https://github.com/alfredbaudisch/Godello)    
 [Material maker](https://github.com/RodZill4/material-maker)    
 
 ## Other Godot related lists
