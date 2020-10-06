@@ -117,6 +117,7 @@ Vulcan-kompute [GDNative ](https://github.com/EthicalML/vulkan-kompute/tree/mast
 [Particle attractors](https://bitbucket.org/metalmastery/reddit_giveaway/src/master/particles/noise_texture_direction/)    
 [Fractals](https://github.com/Chaosus/GDFractals)    
 [2D shader effects -reflection water/ impact/ disolve/ stealth](https://github.com/gamedevserj/Godot-Shaders)    
+[jitter-free-pixelart-scaling](https://github.com/uheartbeast/jitter-free-pixelart-scaling)    
 [glitch shade](https://gist.github.com/securas/eae6ca30e22c18472c21100ed427cde7)    
 
 ## Audio    
