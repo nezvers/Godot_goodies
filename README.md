@@ -9,6 +9,7 @@ Vulcan-kompute [GDNative ](https://github.com/EthicalML/vulkan-kompute/tree/mast
 
 ## Editor    
 [Project manager](https://flyingpimonster.gitlab.io/hourglass-website/)    
+[Cartographer - terrain editor](https://github.com/awkwardpolygons/cartographer)    
 [Object placer tool](https://github.com/mnemoli/godotplacer)    
 [FileSystem view filter](https://github.com/zaevi/godot-filesystem-view)    
 [Github integration](https://github.com/fenix-hub/godot-engine.github-integration), [Git plugin](https://github.com/godotengine/godot-git-plugin)    
