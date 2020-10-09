@@ -171,6 +171,7 @@ Vulcan-kompute [GDNative ](https://github.com/EthicalML/vulkan-kompute/tree/mast
 [Phoenix Channels Client for Godot and GDScript](https://github.com/alfredbaudisch/GodotPhoenixChannels)    
 
 ## Tools and utility collections    
+[eh_DocsExporter](https://github.com/eh-jogos/eh_DocsExporter)    
 [Pigdev tools](https://github.com/nezvers/godot_tools)    
 [NeZvers Tools and utility](https://github.com/nezvers/Godot_tools_and_utility)    
 [eco state machine](https://github.com/nezvers/eco-state-machine)    
