@@ -58,6 +58,7 @@ Vulcan-kompute [GDNative ](https://github.com/EthicalML/vulkan-kompute/tree/mast
 [Godot slicer - port of Unity Ezy-slicer](https://github.com/cj-dimaggio/godot-slicer)    
 [Tile breaker - texture untiling](https://github.com/SIsilicon/Tile-Breaker-Plugin)    
 [Multithreaded VisualServer Multimesh Grass](https://gitlab.com/robert7301201/multithreaded-visualserver-multimesh-grass)    
+[Voxel Factory](https://github.com/antopilo/VoxelFactory)    
 
 
 ## 2D    
