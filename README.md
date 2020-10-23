@@ -59,6 +59,7 @@ Vulcan-kompute [GDNative ](https://github.com/EthicalML/vulkan-kompute/tree/mast
 [Tile breaker - texture untiling](https://github.com/SIsilicon/Tile-Breaker-Plugin)    
 [Multithreaded VisualServer Multimesh Grass](https://gitlab.com/robert7301201/multithreaded-visualserver-multimesh-grass)    
 [Voxel Factory](https://github.com/antopilo/VoxelFactory)    
+[Shell Fur and Grass Add-on](https://github.com/Arnklit/ShellFurGodot)    
 
 
 ## 2D    
