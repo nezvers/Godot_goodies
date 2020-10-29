@@ -80,6 +80,7 @@ Vulcan-kompute [GDNative ](https://github.com/EthicalML/vulkan-kompute/tree/mast
 [Color splatter effect aka Meat boy](https://github.com/Janglee123/godot-color-splatter-effect)    
 [Color swap shader](https://github.com/AlbertoLuviano/SHADER-Palette-Swap)    
 [2D global illumination](https://github.com/samuelbigos/godot_2d_global_illumination)    
+[Godot Card Gaming Library](https://github.com/db0/godot-card-gaming)    
 
 ## GUI
 [Foldable GUI](https://bitbucket.org/metalmastery/reddit_giveaway/src/master/)
