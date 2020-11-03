@@ -97,6 +97,7 @@ Vulcan-kompute [GDNative ](https://github.com/EthicalML/vulkan-kompute/tree/mast
 [Additional visual shader nodes](https://github.com/Maujoe/Godot-Visual-Shader-Node-Library)    
 [Shader playground](https://github.com/tamamu/godot-shader-playground)    
 [Shader samples](https://github.com/Guaranapps/godot3-shaders-samples)    
+[Godot Retro shaders](https://github.com/Ahopness/GodotRetro)    
 
 --[NOT GODOT SHADERS - 3D Shaders for beginers](https://github.com/lettier/3d-game-shaders-for-beginners)
 
