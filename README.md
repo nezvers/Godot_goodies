@@ -175,6 +175,7 @@ Vulcan-kompute [GDNative ](https://github.com/EthicalML/vulkan-kompute/tree/mast
 [Abstract state machine](https://github.com/godot-extended-libraries/abstract-state-machine/)    
 [Screen debugger - print values on the screen](https://github.com/nonunknown/screen-debugger)    
 [Phoenix Channels Client for Godot and GDScript](https://github.com/alfredbaudisch/GodotPhoenixChannels)    
+[GDScript-NEAT-Implementation](https://github.com/BalaDeSilver/GDScript-NEAT-Implementation)    
 
 ## Tools and utility collections    
 [eh_DocsExporter](https://github.com/eh-jogos/eh_DocsExporter)    
