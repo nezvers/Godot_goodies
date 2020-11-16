@@ -189,7 +189,7 @@ Vulcan-kompute [GDNative ](https://github.com/EthicalML/vulkan-kompute/tree/mast
 [Test_DebugDraw](https://github.com/RBerezkin/Test_DebugDraw/)    
 [Godot Neural Network](https://github.com/stoicaandrei/godot-neural-network)    
 [Custom Godot_NeuralNetwork](https://github.com/Godot-Machine-Learning/Godot_MachineLearning)    
-[@Retystety/NeuralNetworks](https://github.com/Retystety/NeuralNetworks)[Example project](https://github.com/Retystety/ANNRockets)    
+[@Retystety/NeuralNetworks](https://github.com/Retystety/NeuralNetworks)[ Example project](https://github.com/Retystety/ANNRockets)    
 
 ## Mobile support
 [Gesture camera](https://github.com/Federico-Ciuffardi/GestureControlledCamera2D)    
