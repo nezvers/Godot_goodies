@@ -31,6 +31,7 @@ Vulcan-kompute [GDNative ](https://github.com/EthicalML/vulkan-kompute/tree/mast
 [Grass editor plugin](https://github.com/marcosbitetti/grass_plugin_4_godot)    
 [UI Design tool](https://github.com/imjp94/UIDesignTool)    
 [NodeConnectorGodot - GUI batch signal connector](https://github.com/Rybadour/NodeConnectorGodot)    
+[WaterGenGodot - river generation](https://github.com/Arnklit/WaterGenGodot)    
 
 ## 3D    
 [Level of Detail (LOD)](https://github.com/Calinou/godot-lod)    
