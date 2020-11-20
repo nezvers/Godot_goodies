@@ -81,6 +81,7 @@ Vulcan-kompute [GDNative ](https://github.com/EthicalML/vulkan-kompute/tree/mast
 [Color swap shader](https://github.com/AlbertoLuviano/SHADER-Palette-Swap)    
 [2D global illumination](https://github.com/samuelbigos/godot_2d_global_illumination)    
 [Godot Card Gaming Library](https://github.com/db0/godot-card-gaming)    
+[Smushgd - 3D skeleton in 2D](https://github.com/acklavidian/smushgd)    
 
 ## GUI
 [Foldable GUI](https://bitbucket.org/metalmastery/reddit_giveaway/src/master/)
