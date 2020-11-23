@@ -213,6 +213,7 @@ Vulcan-kompute [GDNative ](https://github.com/EthicalML/vulkan-kompute/tree/mast
 [Aseprite importer](https://github.com/hectorid/aseprite_importer)    
 [LED (2d level editor) importer](https://github.com/aaboaf/LEDImporter)    
 [Tiled map importer](https://github.com/vnen/godot-tiled-importer)    
+[LDtk "Level Design toollkit" importer](https://github.com/lrgilbert/godot-LDtk-import)    
 
 ## Integration
 [Twitch Chat Interaction Layer](https://github.com/drtwisted/godot-twicil)   
