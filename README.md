@@ -11,6 +11,7 @@ Vulcan-kompute [GDNative ](https://github.com/EthicalML/vulkan-kompute/tree/mast
 [Project manager](https://flyingpimonster.gitlab.io/hourglass-website/)    
 [Cartographer - terrain editor](https://github.com/awkwardpolygons/cartographer)    
 [Godot-voxel module](https://github.com/Zylann/godot_voxel)    
+[Voxel-Core](https://github.com/ClarkThyLord/Voxel-Core/tree/rework)    
 [Object placer tool](https://github.com/mnemoli/godotplacer)    
 [FileSystem view filter](https://github.com/zaevi/godot-filesystem-view)    
 [Github integration](https://github.com/fenix-hub/godot-engine.github-integration), [Git plugin](https://github.com/godotengine/godot-git-plugin)    
