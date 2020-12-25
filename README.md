@@ -118,6 +118,7 @@ Vulcan-kompute [GDNative ](https://github.com/EthicalML/vulkan-kompute/tree/mast
 [Liquid container shader VR demo](https://github.com/CaptainProton42/LiquidContainerDemo)    
 [3D Anime eyes](https://github.com/Francesco149/AnimuEyes)    
 [3D Grass particle shader tutorial](https://github.com/BastiaanOlij/godot-grass-tutorial)    
+[Waterfall shader](https://github.com/CaptainProton42/GodotWaterfallShader)    
 [Shadertoy ported shaders](https://github.com/IINinja/Godot.3.2.2-Ported-Shaders)
 [Shadertoy ported shaders 3.x](https://github.com/jospic/godot3_shaders)
 
