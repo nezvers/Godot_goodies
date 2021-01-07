@@ -33,6 +33,7 @@ Vulcan-kompute [GDNative ](https://github.com/EthicalML/vulkan-kompute/tree/mast
 [UI Design tool](https://github.com/imjp94/UIDesignTool)    
 [NodeConnectorGodot - GUI batch signal connector](https://github.com/Rybadour/NodeConnectorGodot)    
 [WaterGenGodot - river generation](https://github.com/Arnklit/WaterGenGodot)    
+[sDock - easy GUI adjustment](https://apafey.itch.io/godot-editor-plugin-sdock-free)    
 
 ## 3D    
 [Level of Detail (LOD)](https://github.com/Calinou/godot-lod)    
