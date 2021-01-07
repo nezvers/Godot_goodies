@@ -86,6 +86,7 @@ Vulcan-kompute [GDNative ](https://github.com/EthicalML/vulkan-kompute/tree/mast
 [Godot Card Gaming Library](https://github.com/db0/godot-card-gaming)    
 [Smushgd - 3D skeleton in 2D](https://github.com/acklavidian/smushgd)    
 [Day/Night cycle](https://github.com/hiulit/Godot-3-2D-Day-Night-Cycle)    
+[2D dynamic watter](https://github.com/HackTrout/2DDynamicWater)    
 
 ## GUI
 [Foldable GUI](https://bitbucket.org/metalmastery/reddit_giveaway/src/master/)
