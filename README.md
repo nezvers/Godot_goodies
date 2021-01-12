@@ -147,6 +147,7 @@ Vulcan-kompute [GDNative ](https://github.com/EthicalML/vulkan-kompute/tree/mast
 [Nakama Godot Demo](https://github.com/heroiclabs/nakama-godot-demo/), [Nakama Godot client](https://github.com/heroiclabs/nakama-godot)    
 [Rollback sdk](https://github.com/FlutterTal/godot_ggpo)    
 [Easy LAN](https://github.com/henriquelalves/GodotEasyLAN)    
+[Godot GamePad](https://github.com/ACB-prgm/Godot_GamePad)    
 
 
 ## Quality of life    
