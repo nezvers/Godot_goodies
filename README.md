@@ -119,7 +119,7 @@ Vulcan-kompute [GDNative ](https://github.com/EthicalML/vulkan-kompute/tree/mast
 [Guilty Gear Style toon shader](https://github.com/nakedsnake888/GodotToonShader)    
 [Cel Shader v2.0.0](https://github.com/EXPWorlds/Godot-Cel-Shader)    
 [Temperature-heat&cold](https://github.com/AlbertoLuviano/SHADER-Temperature-Distortion)    
-[psx-shaders](https://github.com/marmitoTH/godot-psx-shaders)    
+[psx-shaders](https://github.com/marmitoTH/godot-psx-shaders), [godot-psx-shaders](https://github.com/WittyCognomen/godot-psx-shaders)    
 [Liquid container shader VR demo](https://github.com/CaptainProton42/LiquidContainerDemo)    
 [3D Anime eyes](https://github.com/Francesco149/AnimuEyes)    
 [3D Grass particle shader tutorial](https://github.com/BastiaanOlij/godot-grass-tutorial)    
