@@ -64,6 +64,7 @@ Vulcan-kompute [GDNative ](https://github.com/EthicalML/vulkan-kompute/tree/mast
 [Multithreaded VisualServer Multimesh Grass](https://gitlab.com/robert7301201/multithreaded-visualserver-multimesh-grass)    
 [Voxel Factory](https://github.com/antopilo/VoxelFactory)    
 [Shell Fur and Grass Add-on](https://github.com/Arnklit/ShellFurGodot)    
+[Grass interaction](https://github.com/Arnklit/TutorialResources/tree/main/grass_interact)    
 
 
 ## 2D    
