@@ -128,6 +128,7 @@ Vulcan-kompute [GDNative ](https://github.com/EthicalML/vulkan-kompute/tree/mast
 [Waterfall shader](https://github.com/CaptainProton42/GodotWaterfallShader)    
 [Shadertoy ported shaders](https://github.com/IINinja/Godot.3.2.2-Ported-Shaders)
 [Shadertoy ported shaders 3.x](https://github.com/jospic/godot3_shaders)
+[Flexible Toon Shader*](https://github.com/CaptainProton42/FlexibleToonShaderGD)    
 
 ## 2D Shaders
 [2D grass shader](https://github.com/captainproton42/2dGrassShaderDemo)    
