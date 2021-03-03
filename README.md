@@ -68,6 +68,7 @@ Vulcan-kompute [GDNative ](https://github.com/EthicalML/vulkan-kompute/tree/mast
 [Shell Fur and Grass Add-on](https://github.com/Arnklit/ShellFurGodot)    
 [Grass interaction](https://github.com/Arnklit/TutorialResources/tree/main/grass_interact)    
 [Godot Open World demo](https://github.com/redhoot-dev/Godot-Open-World-Demo)    
+[Godot God Rays Plugin - post-processing](https://github.com/SIsilicon/Godot-God-Rays-Plugin)    
 
 
 ## 2D    
