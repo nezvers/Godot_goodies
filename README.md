@@ -6,6 +6,7 @@ Also [my godot example projects](https://github.com/nezvers/Godot_Public_Example
 [Goost - functional components and other modules](https://github.com/goostengine/goost)    
 Vulcan-kompute [GDNative ](https://github.com/EthicalML/vulkan-kompute/tree/master/examples/godot_logistic_regression/gdnative_shared)|
 [module](https://github.com/EthicalML/vulkan-kompute/tree/master/examples/godot_logistic_regression/custom_module)    
+[EffekseerForGodot - epic particle system](https://github.com/effekseer/EffekseerForGodot3) [Release](https://github.com/effekseer/EffekseerForGodot3/releases) [Docs](https://effekseer.github.io/Help_Godot/en/index.html)        
 
 ## Editor    
 [Project manager](https://flyingpimonster.gitlab.io/hourglass-website/)    
