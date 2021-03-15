@@ -38,6 +38,7 @@ Vulcan-kompute [GDNative ](https://github.com/EthicalML/vulkan-kompute/tree/mast
 [Vertex snap - 3D placement helper](https://github.com/remorse107/vertexsnap)    
 [BetterTextureArray](https://github.com/awkwardpolygons/better-texture-array)    
 [TranslationService plugin](https://github.com/AnidemDex/Godot-TranslationService)    
+[ViewportSpy - show what viewport is seeing](https://github.com/awkwardpolygons/viewport-spy)     
 
 ## 3D    
 [Level of Detail (LOD)](https://github.com/Calinou/godot-lod)    
