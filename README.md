@@ -71,7 +71,7 @@ Vulcan-kompute [GDNative ](https://github.com/EthicalML/vulkan-kompute/tree/mast
 [Grass interaction](https://github.com/Arnklit/TutorialResources/tree/main/grass_interact)    
 [Godot Open World demo](https://github.com/redhoot-dev/Godot-Open-World-Demo)    
 [Godot God Rays Plugin - post-processing](https://github.com/SIsilicon/Godot-God-Rays-Plugin)    
-[Line3D](https://github.com/jegor377/Line3D)     
+[Line3D](https://github.com/jegor377/Line3D), [LineRenderer](https://github.com/dbp8890/line-renderer)     
 
 
 ## 2D    
