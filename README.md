@@ -98,6 +98,7 @@ Vulcan-kompute [GDNative ](https://github.com/EthicalML/vulkan-kompute/tree/mast
 [2D dynamic watter](https://github.com/HackTrout/2DDynamicWater)    
 [2D sanbox game (Terraria/ Starbound)](https://github.com/technistguru/PixelDot)     
 [Chunked Vornoi Generator](https://github.com/arcanewright/godot-chunked-voronoi-generator)    
+[godot-weather-2D](https://github.com/parachutino/godot-weather-2D)    
 
 ## GUI
 [Foldable GUI](https://bitbucket.org/metalmastery/reddit_giveaway/src/master/)
