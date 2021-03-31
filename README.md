@@ -249,6 +249,7 @@ Vulcan-kompute [GDNative ](https://github.com/EthicalML/vulkan-kompute/tree/mast
 [Godello - Trello clone](https://github.com/alfredbaudisch/Godello)    
 [Material maker](https://github.com/RodZill4/material-maker)    
 [Graphical Brainfuck IDE](https://github.com/wmww/BrainfuckIDE)    
+[bitmapFlow - generate inbetweens for animated sprites](https://github.com/Bauxitedev/bitmapflow)    
 
 ## Other Godot related lists
 [Godot powerful](https://github.com/nonunknown/godot-powerful)    
