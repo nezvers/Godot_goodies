@@ -39,6 +39,7 @@ Vulcan-kompute [GDNative ](https://github.com/EthicalML/vulkan-kompute/tree/mast
 [BetterTextureArray](https://github.com/awkwardpolygons/better-texture-array)    
 [TranslationService plugin](https://github.com/AnidemDex/Godot-TranslationService)    
 [ViewportSpy - show what viewport is seeing](https://github.com/awkwardpolygons/viewport-spy)     
+[Godot Project Planner/Exporter](https://github.com/Mercadud/Godot-Project-Planner-Exporter)    
 
 ## 3D    
 [Level of Detail (LOD)](https://github.com/Calinou/godot-lod)    
