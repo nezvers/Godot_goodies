@@ -103,6 +103,7 @@ Vulcan-kompute [GDNative ](https://github.com/EthicalML/vulkan-kompute/tree/mast
 [godot-weather-2D](https://github.com/parachutino/godot-weather-2D)    
 
 ## GUI
+[*Dockable Container](https://github.com/gilzoide/godot-dockable-container)    
 [Foldable GUI](https://bitbucket.org/metalmastery/reddit_giveaway/src/master/)
 [InGame Web News and User Feedback Form](https://github.com/smix8/GodotUIWebNewsAndFeedbackForm)    
 [3D Drag&Drop NPC Trading with Interactions and Dialog](https://github.com/smix8/Godot3DNPCTradingDialogIntermissions)    
