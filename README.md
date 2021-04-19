@@ -40,6 +40,7 @@ Vulcan-kompute [GDNative ](https://github.com/EthicalML/vulkan-kompute/tree/mast
 [TranslationService plugin](https://github.com/AnidemDex/Godot-TranslationService)    
 [ViewportSpy - show what viewport is seeing](https://github.com/awkwardpolygons/viewport-spy)     
 [Godot Project Planner/Exporter](https://github.com/Mercadud/Godot-Project-Planner-Exporter)    
+[gd-YAFSM (godot-Yet Another Finite State Machine)](https://github.com/imjp94/gd-YAFSM)    
 
 ## 3D    
 [Level of Detail (LOD)](https://github.com/Calinou/godot-lod)    
