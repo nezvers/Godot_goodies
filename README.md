@@ -7,7 +7,6 @@ Also [my godot example projects](https://github.com/nezvers/Godot_Public_Example
 Vulcan-kompute [GDNative ](https://github.com/EthicalML/vulkan-kompute/tree/master/examples/godot_logistic_regression/gdnative_shared)|
 [module](https://github.com/EthicalML/vulkan-kompute/tree/master/examples/godot_logistic_regression/custom_module)    
 [EffekseerForGodot - epic particle system](https://github.com/effekseer/EffekseerForGodot3) [Release](https://github.com/effekseer/EffekseerForGodot3/releases) [Docs](https://effekseer.github.io/Help_Godot/en/index.html)        
-[3D Animation retargeting](https://github.com/smix8/GodotAnimationRetargeting)    
 
 ## Editor    
 [Project manager](https://flyingpimonster.gitlab.io/hourglass-website/)    
@@ -42,6 +41,7 @@ Vulcan-kompute [GDNative ](https://github.com/EthicalML/vulkan-kompute/tree/mast
 [ViewportSpy - show what viewport is seeing](https://github.com/awkwardpolygons/viewport-spy)     
 [Godot Project Planner/Exporter](https://github.com/Mercadud/Godot-Project-Planner-Exporter)    
 [gd-YAFSM (godot-Yet Another Finite State Machine)](https://github.com/imjp94/gd-YAFSM)    
+[3D Animation retargeting](https://github.com/smix8/GodotAnimationRetargeting)    
 
 ## 3D    
 [Level of Detail (LOD)](https://github.com/Calinou/godot-lod)    
