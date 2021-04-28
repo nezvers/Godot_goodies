@@ -256,6 +256,7 @@ Vulcan-kompute [GDNative ](https://github.com/EthicalML/vulkan-kompute/tree/mast
 [Graphical Brainfuck IDE](https://github.com/wmww/BrainfuckIDE)    
 [Arrow - Game Narrative Design Tool](https://github.com/mhgolkar/Arrow)    
 [bitmapFlow - generate inbetweens for animated sprites](https://github.com/Bauxitedev/bitmapflow)    
+[Dialogic - dialog builder](https://github.com/coppolaemilio/dialogic)     
 
 ## Other Godot related lists
 [Godot powerful](https://github.com/nonunknown/godot-powerful)    
