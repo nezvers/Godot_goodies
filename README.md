@@ -209,6 +209,7 @@ Vulcan-kompute [GDNative ](https://github.com/EthicalML/vulkan-kompute/tree/mast
 [GDScript-NEAT-Implementation](https://github.com/BalaDeSilver/GDScript-NEAT-Implementation)    
 [TO-Do Manager](https://github.com/OrigamiDev-Pete/TODO_Manager)    
 [Anima - rich interactive UI easily](https://github.com/ceceppa/anima)    
+[Godot theme generator](https://github.com/Calinou/godot-theme-generator)    
 
 ## Tools and utility collections    
 [eh_DocsExporter](https://github.com/eh-jogos/eh_DocsExporter)    
