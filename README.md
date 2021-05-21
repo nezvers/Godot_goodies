@@ -242,6 +242,7 @@ Vulcan-kompute [GDNative ](https://github.com/EthicalML/vulkan-kompute/tree/mast
 ## Importing    
 [DAZ studio to Blender to Godot workflow](https://github.com/smix8/Godot_DAZ_Studio_Guide)    
 [Qodot - Quake map support](https://github.com/Shfty/qodot-plugin)
+[GoldSrc BSP file importer (test version)](https://github.com/DataPlusProgram/GodotGoldSrcBSP)    
 [From blender to Godot](https://github.com/vini-guerrero/Godot_Game_Tools)    
 [godot-kra-psd-importer](https://github.com/2shady4u/godot-kra-psd-importer)    
 [Aseprite importer](https://github.com/hectorid/aseprite_importer)    
