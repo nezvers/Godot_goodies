@@ -79,6 +79,7 @@ Vulcan-kompute [GDNative ](https://github.com/EthicalML/vulkan-kompute/tree/mast
 [Line3D](https://github.com/jegor377/Line3D), [LineRenderer](https://github.com/dbp8890/line-renderer)     
 [Shell Fur *](https://github.com/Arnklit/ShellFurGodot)    
 [Gecko - procedural animation project](https://github.com/Neurotremolo/Gecko)    
+[Camera tween](https://github.com/Didifred/godot-camera-tween)    
 
 
 ## 2D    
