@@ -8,6 +8,7 @@ Vulcan-kompute [GDNative ](https://github.com/EthicalML/vulkan-kompute/tree/mast
 [module](https://github.com/EthicalML/vulkan-kompute/tree/master/examples/godot_logistic_regression/custom_module)    
 [EffekseerForGodot - epic particle system](https://github.com/effekseer/EffekseerForGodot3) [Release](https://github.com/effekseer/EffekseerForGodot3/releases) [Docs](https://effekseer.github.io/Help_Godot/en/index.html)        
 [Godot Neural Networks GDNative library (GNN)](https://github.com/mohsenph69/Godot-Neural-Networks)    
+[MOD player with GDscript](https://bitbucket.org/arlez80/godot-mod-player/src/master/)    
 
 ## Editor    
 [Project manager](https://flyingpimonster.gitlab.io/hourglass-website/)    
