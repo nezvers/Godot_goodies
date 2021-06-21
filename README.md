@@ -117,6 +117,7 @@ Vulcan-kompute [GDNative ](https://github.com/EthicalML/vulkan-kompute/tree/mast
 [Foldable GUI](https://bitbucket.org/metalmastery/reddit_giveaway/src/master/)
 [InGame Web News and User Feedback Form](https://github.com/smix8/GodotUIWebNewsAndFeedbackForm)    
 [3D Drag&Drop NPC Trading with Interactions and Dialog](https://github.com/smix8/Godot3DNPCTradingDialogIntermissions)    
+[Monitor overlay](https://github.com/HungryProton/monitor_overlay)    
 
 ## Shaders    
 [Book of shaders in Godot](https://github.com/jayaarrgh/BookOfShaders-Godot) - [itch.io live coding version](https://jayaarrgh.itch.io/book-of-shaders-godot)    
