@@ -84,6 +84,7 @@ Vulcan-kompute [GDNative ](https://github.com/EthicalML/vulkan-kompute/tree/mast
 [Gecko - procedural animation project](https://github.com/Neurotremolo/Gecko)    
 [Camera tween](https://github.com/Didifred/godot-camera-tween)    
 [Physics sandbox - physics testing ground](https://github.com/e344fde6bf/godot-physics-sandbox)     
+[3D book - dynamic content](https://github.com/miskatonicstudio/interactive-book-godot)    
 
 
 ## 2D    
