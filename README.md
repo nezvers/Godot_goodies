@@ -47,6 +47,7 @@ Vulcan-kompute [GDNative ](https://github.com/EthicalML/vulkan-kompute/tree/mast
 [3D Animation retargeting](https://github.com/smix8/GodotAnimationRetargeting)    
 [Music manager plugin](https://github.com/Mags0/Godot-Music-Manager-Plugin)    
 [ridiculous_coding](https://github.com/jotson/ridiculous_coding)    
+[Editor Physics toggle](https://github.com/andersmmg/godot-physics-toggle)    
 
 ## 3D    
 [Level of Detail (LOD)](https://github.com/Calinou/godot-lod)    
