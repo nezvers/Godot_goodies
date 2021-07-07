@@ -124,6 +124,7 @@ Vulcan-kompute [GDNative ](https://github.com/EthicalML/vulkan-kompute/tree/mast
 ## Shaders    
 [Book of shaders in Godot](https://github.com/jayaarrgh/BookOfShaders-Godot) - [itch.io live coding version](https://jayaarrgh.itch.io/book-of-shaders-godot)    
 [GDquest godot shaders](https://github.com/GDQuest/godot-shaders)    
+[Color LUT shader](https://github.com/thiagoamendola/godot-color-lut-shader)    
 [Decals](https://github.com/Master-J/DecalCo)    
 [Procedural checkerboard](https://github.com/CptPotato/GodotThings/tree/master/ProceduralCheckerboard)    
 [Godot-practice-shaders](https://github.com/DevinPentecost/godot-practice-shaders)    
