@@ -113,6 +113,7 @@ Vulcan-kompute [GDNative ](https://github.com/EthicalML/vulkan-kompute/tree/mast
 [2D sanbox game (Terraria/ Starbound)](https://github.com/technistguru/PixelDot)     
 [Chunked Vornoi Generator](https://github.com/arcanewright/godot-chunked-voronoi-generator)    
 [godot-weather-2D](https://github.com/parachutino/godot-weather-2D)    
+[N-body sim with a QuadTree](https://github.com/fidofetch/N-Body-Sim--Godot-)    
 
 ## GUI
 [*Dockable Container](https://github.com/gilzoide/godot-dockable-container)    
