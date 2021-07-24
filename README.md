@@ -237,6 +237,7 @@ Vulcan-kompute [GDNative ](https://github.com/EthicalML/vulkan-kompute/tree/mast
 [Godot Neural Network](https://github.com/stoicaandrei/godot-neural-network)    
 [Custom Godot_NeuralNetwork](https://github.com/Godot-Machine-Learning/Godot_MachineLearning)    
 [@Retystety/NeuralNetworks](https://github.com/Retystety/NeuralNetworks)[ Example project](https://github.com/Retystety/ANNRockets)    
+[Discord bot with Godot](https://github.com/OverloadedOrama/godot-discord-bot)    
 
 ## Mobile support
 [Gesture camera](https://github.com/Federico-Ciuffardi/GestureControlledCamera2D)    
