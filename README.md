@@ -114,6 +114,7 @@ Vulcan-kompute [GDNative ](https://github.com/EthicalML/vulkan-kompute/tree/mast
 [Chunked Vornoi Generator](https://github.com/arcanewright/godot-chunked-voronoi-generator)    
 [godot-weather-2D](https://github.com/parachutino/godot-weather-2D)    
 [N-body sim with a QuadTree](https://github.com/fidofetch/N-Body-Sim--Godot-)    
+[Lorien - Infinite canvas drawing/notes](https://github.com/mbrlabs/Lorien)    
 
 ## GUI
 [*Dockable Container](https://github.com/gilzoide/godot-dockable-container)    
