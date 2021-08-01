@@ -265,6 +265,7 @@ Vulcan-kompute [GDNative ](https://github.com/EthicalML/vulkan-kompute/tree/mast
 
 ## Integration
 [Twitch Chat Interaction Layer](https://github.com/drtwisted/godot-twicil)   
+[GIFT - Godot IRC For Twitch addon](https://github.com/MennoMax/gift)    
 
 ## App projects    
 [Pixelorama](https://github.com/Orama-Interactive/Pixelorama)    
