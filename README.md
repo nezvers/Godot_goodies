@@ -262,6 +262,7 @@ Vulcan-kompute [GDNative ](https://github.com/EthicalML/vulkan-kompute/tree/mast
 [Tiled map importer](https://github.com/vnen/godot-tiled-importer)    
 [LDtk "Level Design toollkit" importer](https://github.com/lrgilbert/godot-LDtk-import), [LDtk2Godot](https://github.com/securas/LDtk2Godot)    
 [Godot Dynamic GLTF Loader](https://github.com/you-win/godot-dynamic-gltf-loader)    
+[ToPixel - Editor plugin convert to pixel art formats](ToPixel)|[PixImp - animation Export/ Import](https://github.com/Broken-Robot-Studio/piximp)    
 
 ## Integration
 [Twitch Chat Interaction Layer](https://github.com/drtwisted/godot-twicil)   
