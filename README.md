@@ -246,7 +246,7 @@ Vulcan-kompute [GDNative ](https://github.com/EthicalML/vulkan-kompute/tree/mast
 
 ## Publishing features    
 [Good Old Games Achievement Plugin](https://github.com/pixelriot/GodotGoG)    
-[GodotSteam](https://github.com/Gramps/GodotSteam)    
+[GodotSteam](https://github.com/Gramps/GodotSteam) | [Steam api](https://github.com/samsface/godot-steam-api)    
 [Google Play Game Services](https://github.com/Kopfenheim/godot-gpgs)    
 [RetroPie export](https://github.com/hiulit/RetroPie-Godot-Game-Engine-Emulator)    
 [Docker image to export Godot Engine games](https://hub.docker.com/r/barichello/godot-ci/)    
