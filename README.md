@@ -43,7 +43,7 @@ Vulcan-kompute [GDNative ](https://github.com/EthicalML/vulkan-kompute/tree/mast
 [TranslationService plugin](https://github.com/AnidemDex/Godot-TranslationService)    
 [ViewportSpy - show what viewport is seeing](https://github.com/awkwardpolygons/viewport-spy)     
 [Godot Project Planner/Exporter](https://github.com/Mercadud/Godot-Project-Planner-Exporter)    
-[gd-YAFSM (godot-Yet Another Finite State Machine)](https://github.com/imjp94/gd-YAFSM)|[Behavior Tree](https://github.com/viniciusgerevini/godot-behavior-tree-example)    
+[gd-YAFSM (godot-Yet Another Finite State Machine)](https://github.com/imjp94/gd-YAFSM) | [Behavior Tree](https://github.com/viniciusgerevini/godot-behavior-tree-example)    
 [3D Animation retargeting](https://github.com/smix8/GodotAnimationRetargeting)    
 [Music manager plugin](https://github.com/Mags0/Godot-Music-Manager-Plugin)    
 [ridiculous_coding](https://github.com/jotson/ridiculous_coding)    
