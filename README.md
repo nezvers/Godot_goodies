@@ -86,6 +86,7 @@ Vulcan-kompute [GDNative ](https://github.com/EthicalML/vulkan-kompute/tree/mast
 [Camera tween](https://github.com/Didifred/godot-camera-tween)    
 [Physics sandbox - physics testing ground](https://github.com/e344fde6bf/godot-physics-sandbox)     
 [3D book - dynamic content](https://github.com/miskatonicstudio/interactive-book-godot)    
+[Godot Simple PCG Terrain - Terrain generation/ chunk system](https://github.com/alex-karev/godot-simple-procedural-terrain)    
 
 
 ## 2D    
