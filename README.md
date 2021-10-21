@@ -10,6 +10,7 @@ Vulcan-kompute [GDNative ](https://github.com/EthicalML/vulkan-kompute/tree/mast
 [Godot Neural Networks GDNative library (GNN)](https://github.com/mohsenph69/Godot-Neural-Networks)    
 [MOD player with GDscript](https://bitbucket.org/arlez80/godot-mod-player/src/master/)    
 [GD_plug - plugin manager](https://github.com/imjp94/gd-plug)    
+[Godot Lua PluginScript](https://github.com/gilzoide/godot-lua-pluginscript)    
 
 ## Editor    
 [Project manager](https://flyingpimonster.gitlab.io/hourglass-website/)    
