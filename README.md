@@ -120,6 +120,7 @@ Vulcan-kompute [GDNative ](https://github.com/EthicalML/vulkan-kompute/tree/mast
 [N-body sim with a QuadTree](https://github.com/fidofetch/N-Body-Sim--Godot-)    
 [Lorien - Infinite canvas drawing/notes](https://github.com/mbrlabs/Lorien)    
 [ScaleNX - Pixel art sprite upscaler style converter](https://github.com/MeanLight-Studio/ScaleNX)     
+[Godot Native bullets](https://github.com/samdze/godot-native-bullets-plugin)    
 
 ## GUI
 [*Dockable Container](https://github.com/gilzoide/godot-dockable-container)    
