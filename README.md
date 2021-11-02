@@ -114,13 +114,14 @@ Vulcan-kompute [GDNative ](https://github.com/EthicalML/vulkan-kompute/tree/mast
 [Smushgd - 3D skeleton in 2D](https://github.com/acklavidian/smushgd)    
 [Day/Night cycle](https://github.com/hiulit/Godot-3-2D-Day-Night-Cycle)    
 [2D dynamic watter](https://github.com/HackTrout/2DDynamicWater)    
-[2D sanbox game (Terraria/ Starbound)](https://github.com/technistguru/PixelDot)     
+[2D sandbox game (Terraria/ Starbound)](https://github.com/technistguru/PixelDot)     
 [Chunked Vornoi Generator](https://github.com/arcanewright/godot-chunked-voronoi-generator)    
 [godot-weather-2D](https://github.com/parachutino/godot-weather-2D)    
 [N-body sim with a QuadTree](https://github.com/fidofetch/N-Body-Sim--Godot-)    
 [Lorien - Infinite canvas drawing/notes](https://github.com/mbrlabs/Lorien)    
 [ScaleNX - Pixel art sprite upscaler style converter](https://github.com/MeanLight-Studio/ScaleNX)     
 [Godot Native bullets](https://github.com/samdze/godot-native-bullets-plugin)    
+[2D water - react to physics](https://github.com/marcosa65/water2d)    
 
 ## GUI
 [*Dockable Container](https://github.com/gilzoide/godot-dockable-container)    
