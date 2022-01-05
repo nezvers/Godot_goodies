@@ -11,6 +11,7 @@ Vulcan-kompute [GDNative ](https://github.com/EthicalML/vulkan-kompute/tree/mast
 [MOD player with GDscript](https://bitbucket.org/arlez80/godot-mod-player/src/master/)    
 [GD_plug - plugin manager](https://github.com/imjp94/gd-plug)    
 [Godot Lua PluginScript](https://github.com/gilzoide/godot-lua-pluginscript)    
+[Event system](https://github.com/AnidemDex/Godot-EventSystem)    
 
 ## Editor    
 [Project manager](https://flyingpimonster.gitlab.io/hourglass-website/)    
