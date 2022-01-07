@@ -232,6 +232,7 @@ Vulcan-kompute [GDNative ](https://github.com/EthicalML/vulkan-kompute/tree/mast
 [Anima - rich interactive UI easily](https://github.com/ceceppa/anima)    
 [Godot theme generator](https://github.com/Calinou/godot-theme-generator)    
 [Trello reporting tool](https://github.com/RPicster/Godot-Trello-Reporting-Tool)    
+[Integer Resolution Handler](https://github.com/Yukitty/godot-addon-integer_resolution_handler)    
 
 ## Tools and utility collections    
 [eh_DocsExporter](https://github.com/eh-jogos/eh_DocsExporter)    
