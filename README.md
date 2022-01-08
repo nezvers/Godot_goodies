@@ -66,7 +66,8 @@ Vulcan-kompute [GDNative ](https://github.com/EthicalML/vulkan-kompute/tree/mast
 [random prop filling](https://github.com/HungryProton/scatter)    
 [AllSky skybox](https://github.com/rpgwhitelock/AllSkyFree_Godot), [simple skybox](https://github.com/Chaosus/GDSimpleSkybox)    
 [Red dot gun shader](https://gitlab.com/MrMinimal/godot-reflex-sight)    
-[Godot Trail System](https://github.com/OBKF/Godot-Trail-System), [GM_Trail](https://github.com/HungryProton/gm_trail), [Motion trails](https://github.com/dbp8890/motion-trails)    
+[Godot Trail System](https://github.com/OBKF/Godot-Trail-System), [GM_Trail](https://github.com/HungryProton/gm_trail), [Motion trails](https://github.com/dbp8890/motion-trails) [Godot Super Scaling](https://github.com/cybereality/godot-super-scaling)       
+
 [portal culling](https://github.com/lawnjelly/godot-lportal)    
 [Gun system](https://github.com/Miziziziz/Godot3DGunSystem)    
 [Projected decals](https://github.com/Miziziziz/GodotProjectedDecals)    
