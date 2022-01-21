@@ -53,6 +53,7 @@ Vulcan-kompute [GDNative ](https://github.com/EthicalML/vulkan-kompute/tree/mast
 [godot-ply - box modeling in editor](https://github.com/jarneson/godot-ply)    
 [Post-processing-tool](https://github.com/Mohammed-Anwar/post-processing-tool-for-godot)    
 [Draw anywhere](https://github.com/3ddelano/draw-anywhere-godot)    
+[Interop - plugin comunication](https://github.com/jarneson/godot-plugin-interop)    
 
 ## 3D    
 [Level of Detail (LOD)](https://github.com/Calinou/godot-lod)    
