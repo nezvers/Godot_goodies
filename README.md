@@ -151,7 +151,7 @@ Vulcan-kompute [GDNative ](https://github.com/EthicalML/vulkan-kompute/tree/mast
 --[NOT GODOT SHADERS - 3D Shaders for beginers](https://github.com/lettier/3d-game-shaders-for-beginners)
 
 ## 3D shaders
-[Realistic water shader](https://github.com/godot-extended-libraries/godot-realistic-water), [Basic water](https://github.com/Maujoe/godot-basic-water-material),[2D ripple effect](https://github.com/securas/Water_Ripple_Tutorial)    
+[Realistic water shader](https://github.com/godot-extended-libraries/godot-realistic-water), [Basic water](https://github.com/Maujoe/godot-basic-water-material)  
 [Material capture](https://github.com/godot-extended-libraries/godot-mat-cap)    
 [DOS like shader](https://gitlab.com/chainedlupine/godot-3d-dos-shader)    
 [Sprite stack - fake 3d pixel art](https://gist.github.com/securas/a15f520b6ff1d748e3f38c2cd6fd0c94)    
