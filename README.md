@@ -7,4 +7,4 @@ Collection of nice stuff for Godot.
 
 |VFX|  |
 | --- | --- |
-|[Effexeer](https://github.com/effekseer/EffekseerForGodot4)| |
+|[Effexeer](https://github.com/effekseer/EffekseerForGodot4)|Custom particle system |
