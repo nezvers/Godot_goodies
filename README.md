@@ -12,3 +12,7 @@ Collection of nice stuff for Godot.
 |Story|  |
 | --- | --- |
 |[Godo-ink](https://github.com/paulloz/godot-ink)|Implement INK for interactive narrative |
+
+|Databases|  |
+| --- | --- |
+|[Godot-nut](https://github.com/GodotNuts/GodotFirebase/tree/4.x) | Firebase integration |
