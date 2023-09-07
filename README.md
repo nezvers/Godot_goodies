@@ -4,6 +4,7 @@ Collection of nice stuff for Godot.
 |GUI|  |
 | --- | --- |
 |[DockableContainer](https://github.com/gilzoide/godot-dockable-container)|  |
+|[CollapsableContainer](https://github.com/ArshvirGoraya/Godot-Collapsible-Container)|   |
 
 |VFX|  |
 | --- | --- |
