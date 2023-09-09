@@ -3,8 +3,8 @@ Collection of nice stuff for Godot.
 
 |GUI|  |
 | --- | --- |
-|[DockableContainer](https://github.com/gilzoide/godot-dockable-container)|  |
-|[CollapsableContainer](https://github.com/ArshvirGoraya/Godot-Collapsible-Container)|   |
+|[DockableContainer](https://github.com/gilzoide/godot-dockable-container)| Docking/tiling UI panels Container addon for Godot. |
+|[CollapsableContainer](https://github.com/ArshvirGoraya/Godot-Collapsible-Container)| A custom node for the Godot Game Engine that can help with many of your expanding/collapsing UI needs. It was initially made to mimic an accordion UI element. |
 |[Godot-GameGUI](https://github.com/brombres/Godot-GameGUI)| A Godot 4.x plug-in that implements a rich and robust dynamic layout and sizing system for building user interfaces. |
 
 |VFX|  |
