@@ -10,6 +10,7 @@ Collection of nice stuff for Godot.
 |Tools|   |
 | --- | --- |
 |[godot_debug_draw_3d](https://github.com/DmitriySalnikov/godot_debug_draw_3d)| This is an add-on for debug drawing in 3D and for some 2D overlays, which is written in C++ and can be used with GDScript. |
+|[Cris-Cross](https://github.com/BenjaTK/Criss-Cross)|A simple Godot addon that adds generic grid nodes for quickly building grid-based systems, in 2D or 3D.|
 
 |VFX|  |
 | --- | --- |
