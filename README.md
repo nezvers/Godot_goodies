@@ -5,6 +5,7 @@ Collection of nice stuff for Godot.
 | --- | --- |
 |[DockableContainer](https://github.com/gilzoide/godot-dockable-container)|  |
 |[CollapsableContainer](https://github.com/ArshvirGoraya/Godot-Collapsible-Container)|   |
+|[Godot-GameGUI](https://github.com/brombres/Godot-GameGUI)| A Godot 4.x plug-in that implements a rich and robust dynamic layout and sizing system for building user interfaces. |
 
 |VFX|  |
 | --- | --- |
