@@ -19,6 +19,7 @@ Collection of nice stuff for Godot.
 |Story|  |
 | --- | --- |
 |[Godo-ink](https://github.com/paulloz/godot-ink)|Implement INK for interactive narrative |
+|[Dialogue Manager](https://github.com/nathanhoad/godot_dialogue_manager)|Dialogue Manager is an addon for Godot 4 (there's a Godot 3 version too) that provides a stateless branching dialogue editor and runtime. Write your dialogue in a script-like way and easily integrate it into your game.|
 
 |Databases|  |
 | --- | --- |
