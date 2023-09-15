@@ -1,6 +1,6 @@
 # Godot_goodies
-Collection of nice stuff for Godot.
-Slowly building a branch for [Godot 4](https://github.com/nezvers/Godot_goodies/tree/4.x)
+Collection of nice stuff for Godot.   
+Slowly building a branch for [Godot 4](https://github.com/nezvers/Godot_goodies/tree/4.x)   
 Also [my godot example projects](https://github.com/nezvers/Godot_Public_Examples)    
 
 ## Engine    
