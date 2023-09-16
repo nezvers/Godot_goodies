@@ -16,6 +16,11 @@ Collection of nice stuff for Godot.
 | --- | --- |
 |[FMOD for Godot](https://github.com/alessandrofama/fmod-for-godot) | Integration of FMOD Studio's audio middleware into the Godot game engine. |
 
+
+|Performance|  |
+| --- | --- |
+| [Godot PerfBullets](https://github.com/Moonzel/Godot-PerfBullets) | Spawn thousands of bullets or particles on screen in an extremely performant way! |
+
 |VFX|  |
 | --- | --- |
 |[Effexeer](https://github.com/effekseer/EffekseerForGodot4)|Custom particle system |
