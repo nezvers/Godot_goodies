@@ -17,6 +17,10 @@ Collection of nice stuff for Godot.
 |[Godot Sound Manager](https://github.com/nathanhoad/godot_sound_manager) | A simple music and sound effect player for the Godot Engine. |
 |[FMOD for Godot](https://github.com/alessandrofama/fmod-for-godot) | Integration of FMOD Studio's audio middleware into the Godot game engine. |
 
+|Nodes|  |
+| --- | --- |
+|[Godot Rope 3D](https://github.com/tcmug/godot_rope3d) | A gdextension version of the Godot 3.x rope implementation https://github.com/tcmug/rope3d in to Godot 4.x |
+
 
 |Performance|  |
 | --- | --- |
