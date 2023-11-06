@@ -11,7 +11,7 @@ Collection of nice stuff for Godot.
 | --- | --- |
 |[godot_debug_draw_3d](https://github.com/DmitriySalnikov/godot_debug_draw_3d)| This is an add-on for debug drawing in 3D and for some 2D overlays, which is written in C++ and can be used with GDScript. |
 |[Criss-Cross](https://github.com/BenjaTK/Criss-Cross)|A simple Godot addon that adds generic grid nodes for quickly building grid-based systems, in 2D or 3D.|
-|[Godot Game Settings (GGS)(https://github.com/PunchablePlushie/godot-game-settings)]|Godot Game Settings allows you to create and manage game settings for your small to medium projects. It takes care of all the fundamental functionalities required to have proper game settings, including predefined logic for common settings (e.g. display, audio, input), UI components, saving/loading data, and applying settings.|
+|[Godot Game Settings (GGS)](https://github.com/PunchablePlushie/godot-game-settings)|Godot Game Settings allows you to create and manage game settings for your small to medium projects. It takes care of all the fundamental functionalities required to have proper game settings, including predefined logic for common settings (e.g. display, audio, input), UI components, saving/loading data, and applying settings.|
 
 |Audio|  |
 | --- | --- |
