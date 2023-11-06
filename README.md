@@ -40,5 +40,6 @@ Collection of nice stuff for Godot.
 | --- | --- |
 |[Godot-nut](https://github.com/GodotNuts/GodotFirebase/tree/4.x) | Firebase integration |
 
+| Networking |     |
 | --- | --- |
 |[Steam Sockets Multiplayer Peer](https://github.com/expressobits/steam-multiplayer-peer)|It uses some codes that are close to GodotSteam's SteamNetworkingSockets(), but all aimed at integrating Godot 4's MultiplayerPeerExtension|
